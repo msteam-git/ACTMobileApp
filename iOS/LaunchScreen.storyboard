@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController" wantsFullScreenLayout="YES">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" customColorSpace="sRGB" colorSpace="calibratedRGB" red="1" green="1" blue="1" alpha="1"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="220" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" image="map.png" adjustsImageSizeForAccessibilityContentSizeCategory="YES">
+                                <rect key="frame" x="-6" y="-1" width="485" height="746"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <rect key="contentStretch" x="0.0" y="0.0" width="0" height="1"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Polcirkelleden" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="659" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" adjustsFontForContentSizeCategory="YES">
+                                <rect key="frame" x="52" y="287" width="277" height="42"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Lobster-Regular" family="Lobster" pointSize="40"/>
+                                <nil key="highlightedColor"/>
+                                <color key="textColor" colorSpace="calibratedRGB" red="1" green="1" blue="1" alpha="1"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Arctic Circle Gateway" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="660" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                                <rect key="frame" x="73" y="362" width="199" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <nil key="highlightedColor"/>
+                                <color key="textColor" colorSpace="calibratedRGB" red="1" green="1" blue="1" alpha="1"/>
+                            </label>
+                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="661" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" image="arcticlogo.png" highlightedImage="arcticlogo.png" userInteractionEnabled="NO" layoutMarginsFollowReadableWidth="YES">
+                                <rect key="frame" x="52" y="48" width="241" height="202"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxY="YES"/>
+                                <rect key="contentStretch" x="0.0" y="0.0" width="200" height="1"/>
+                                <edgeInsets key="layoutMargins" top="20" left="20" bottom="0" right="20"/>
+                                <variation key="heightClass=regular-widthClass=compact" preservesSuperviewLayoutMargins="YES"/>
+                            </imageView>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="3730" fixedFrame="YES" animating="YES" hidesWhenStopped="YES" tag="0.0" semanticContentAttribute="forceLeftToRight">
+                                <rect key="frame" x="0.0" y="456" width="375" height="37"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <rect key="contentStretch" x="0.0" y="0.0" width="1" height="1"/>
+                                <color key="tintColor" colorSpace="calibratedRGB" red="1" green="1" blue="1" alpha="1"/>
+                                <color key="color" colorSpace="calibratedRGB" red="1" green="1" blue="1" alpha="1"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <variation key="heightClass=compact">
+                            <mask key="subviews">
+                                <include reference="661"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=compact-widthClass=compact">
+                            <mask key="subviews">
+                                <include reference="661"/>
+                            </mask>
+                        </variation>
+                        <color key="tintColor" colorSpace="calibratedRGB" red="1" green="1" blue="1" alpha="1"/>
+                        <accessibility key="accessibilityConfiguration">
+                            <bool key="isElement" value="YES"/>
+                        </accessibility>
+                    </view>
+                    <connections/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="147" y="605"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="aboutus.png" width="128" height="128"/>
+        <image name="act_page_2_image_1.png" width="960" height="479"/>
+        <image name="ACT_Page_3_image.jpg" width="684" height="912"/>
+        <image name="arcticlogo.png" width="344" height="364"/>
+        <image name="Bear.jpg" width="640" height="480"/>
+        <image name="BirchPolypore.jpg" width="914" height="686"/>
+        <image name="BlackGrouse.jpg" width="912" height="684"/>
+        <image name="contacts.png" width="128" height="128"/>
+        <image name="Default-568h.png" width="568" height="320"/>
+        <image name="English.jpg" width="582" height="340"/>
+        <image name="Freshwater.JPG" width="443" height="332"/>
+        <image name="hamburger.png" width="14" height="15"/>
+        <image name="ICLapland combined.png" width="365" height="476"/>
+        <image name="ICLapland.jpeg" width="156" height="40"/>
+        <image name="Icon-20x20.png" width="20" height="20"/>
+        <image name="Icon-29x29.png" width="29" height="29"/>
+        <image name="Icon-40x40.png" width="40" height="40"/>
+        <image name="Icon-57x57.png" width="57" height="57"/>
+        <image name="Icon-60.png" width="60" height="60"/>
+        <image name="Icon-60x60.png" width="60" height="60"/>
+        <image name="Icon-72x72.png" width="72" height="72"/>
+        <image name="Icon-76.png" width="76" height="76"/>
+        <image name="Icon-76x76.png" width="76" height="76"/>
+        <image name="Icon-83.5x83.5.png" width="83.5" height="83.5"/>
+        <image name="Icon-App-20x20.png" width="20" height="20"/>
+        <image name="Icon-App-29x29.png" width="29" height="29"/>
+        <image name="Icon-App-40x40.png" width="40" height="40"/>
+        <image name="Icon-App-57x57.png" width="57" height="57"/>
+        <image name="Icon-App-60x60.png" width="60" height="60"/>
+        <image name="Icon-App-72x72.png" width="72" height="72"/>
+        <image name="Icon-App-76x76.png" width="76" height="76"/>
+        <image name="Icon-App-83.5x83.5.png" width="83.5" height="83.5"/>
+        <image name="Icon-Small-40.png" width="40" height="40"/>
+        <image name="Icon-Small-50x50.png" width="50" height="50"/>
+        <image name="Icon-Small.png" width="29" height="29"/>
+        <image name="icon.png" width="120" height="120"/>
+        <image name="Lansstyrelsen logo with white.png" width="441" height="631"/>
+        <image name="map.png" width="1333" height="2367"/>
+        <image name="Map_Icons/info.png" width="400" height="400"/>
+        <image name="Map_Icons/Norrpil.png" width="406" height="400"/>
+        <image name="Map_Icons/Polcirkeln.png" width="400" height="400"/>
+        <image name="Map_Icons/symb-fornlamn.png" width="400" height="400"/>
+        <image name="Map_Icons/symb-parkering.png" width="400" height="400"/>
+        <image name="Map_Icons/symb-parkering1.png" width="94" height="94"/>
+        <image name="Map_Icons/symb-rastplats.png" width="400" height="400"/>
+        <image name="Map_Icons/symb-sevardhet-farg.png" width="400" height="400"/>
+        <image name="Map_Icons/Vattenplats-farg.png" width="400" height="400"/>
+        <image name="map2.png" width="960" height="684"/>
+        <image name="map2_bw.png" width="960" height="684"/>
+        <image name="nature.png" width="128" height="128"/>
+        <image name="Numbers/numbers1.png" width="400" height="510"/>
+        <image name="Numbers/numbers10.png" width="400" height="510"/>
+        <image name="Numbers/numbers11.png" width="400" height="510"/>
+        <image name="Numbers/numbers12.png" width="400" height="510"/>
+        <image name="Numbers/numbers13.png" width="400" height="510"/>
+        <image name="Numbers/numbers14.png" width="400" height="510"/>
+        <image name="Numbers/numbers2.png" width="400" height="510"/>
+        <image name="Numbers/numbers3.png" width="400" height="510"/>
+        <image name="Numbers/numbers4.png" width="400" height="510"/>
+        <image name="Numbers/numbers5.png" width="400" height="510"/>
+        <image name="Numbers/numbers6.png" width="400" height="510"/>
+        <image name="Numbers/numbers7.png" width="400" height="510"/>
+        <image name="Numbers/numbers8.png" width="400" height="510"/>
+        <image name="Numbers/numbers9.png" width="400" height="510"/>
+        <image name="numbers1.png" width="400" height="510"/>
+        <image name="ObjectPage_Images/ACT_Page_6_B_image_1.jpg" width="1232" height="816"/>
+        <image name="ObjectPage_Images/ACT_Page_6_C_image_1.jpg" width="768" height="1024"/>
+        <image name="ObjectPage_Images/ACT_Page_6_D_image_1.jpg" width="768" height="1024"/>
+        <image name="ObjectPage_Images/ACT_Page_6_F_image_1.jpg" width="1632" height="1224"/>
+        <image name="ObjectPage_Images/ACT_Page_6_H_image_1.jpg" width="768" height="1024"/>
+        <image name="ObjectPage_Images/ACT_Page_6_i_image_1.jpg" width="912" height="684"/>
+        <image name="ObjectPage_Images/ACT_Page_6_image_J_1.jpg" width="816" height="816"/>
+        <image name="ObjectPage_Images/ACT_Page_6_image_N_1.jpg" width="862" height="816"/>
+        <image name="ObjectPage_Images/ACT_Page_6_K_image_1.jpg" width="768" height="1024"/>
+        <image name="ObjectPage_Images/ACT_Page_6_L_image_1.jpg" width="1024" height="768"/>
+        <image name="ObjectPage_Images/ACT_Page_6_M_image_1.jpg" width="816" height="1232"/>
+        <image name="ObjectPage_Images/Start.jpg" width="512" height="384"/>
+        <image name="qr.png" width="406" height="406"/>
+        <image name="Reindeer.jpg" width="1232" height="816"/>
+        <image name="reminders.png" width="24" height="24"/>
+        <image name="Siberian.jpg" width="912" height="684"/>
+        <image name="sparbankennord-300 logga.jpg" width="300" height="134"/>
+        <image name="sparbankennord.jpg" width="134" height="60"/>
+        <image name="styrelsen.jpg" width="53" height="80"/>
+        <image name="Swedish.png" width="555" height="340"/>
+        <image name="symbol.jpeg" width="66" height="70"/>
+        <image name="Taiga.jpg" width="912" height="684"/>
+        <image name="testmap.png" width="494" height="301"/>
+        <image name="todo.png" width="128" height="128"/>
+        <image name="todoimage.png" width="64" height="52"/>
+        <image name="trailmapfinal.png" width="7540" height="10603"/>
+        <image name="trailmapfinalResized.png" width="1000" height="1406"/>
+        <image name="spinner.gif" width="160" height="160"/>
+    </resources>
+</document>

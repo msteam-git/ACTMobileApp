@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Polcirkelleden.App"
+    xmlns:dark="clr-namespace:Xamarin.Forms.Themes;assembly=Xamarin.Forms.Theme.Dark">
+	<Application.Resources>
+		<!-- Application resource dictionary -->
+        <ResourceDictionary MergedWith="dark:DarkThemeResources">
+            <OnPlatform x:Key="Lobster" x:TypeArguments="x:String" iOS="Lobster" Android="Lobster-Regular.ttf#Lobster-Regular" />
+            <OnPlatform x:Key="Cabin" x:TypeArguments="x:String" iOS="Cabin" Android="Cabin-Regular.ttf#Cabin-Regular" />
+           
+
+            <Style x:Key="buttonStyle" TargetType="Button">
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="BorderColor" Value="Black" />
+                <Setter Property="BorderRadius" Value="5" />
+                <Setter Property="BorderWidth" Value="0" />
+                <Setter Property="WidthRequest" Value="120" />
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="BackgroundColor" Value="White"></Setter>
+                <Setter Property="FontSize" Value="18"></Setter>
+                <Setter Property="FontFamily" Value="{DynamicResource Cabin}" />
+            </Style>
+
+            <Style x:Key="headerStyle" TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontSize" Value="32"></Setter>
+                <Setter Property="FontFamily" Value="{DynamicResource Lobster}" />
+            </Style>
+
+            <Style x:Key="labelStyle" TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontSize" Value="14"></Setter>
+                <Setter Property="FontFamily" Value="{DynamicResource Cabin}" />
+            </Style>
+            
+        </ResourceDictionary>
+	</Application.Resources>
+</Application>

@@ -1,0 +1,46 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:control="clr-namespace:Polcirkelleden" 
+    x:Class="Polcirkelleden.Welcome" Title="Välkommen"
+    BackgroundColor="#406453">
+    <!--<ContentPage.ToolbarItems>
+        <ToolbarItem Text="Skanna QR-kod" Icon="reminders.png" Order="Primary" x:Name="qrscan" />
+    </ContentPage.ToolbarItems>-->
+    <ContentPage.Content>
+        <ScrollView Orientation="Vertical" VerticalOptions="StartAndExpand">
+            <StackLayout>
+                <!--<Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" Text="Welcome" BackgroundColor="Black" TextColor="Blue"/>-->
+                <Image HorizontalOptions="FillAndExpand" VerticalOptions="Start" Aspect="AspectFill" Source="act_page_2_image_1.png">
+                </Image>
+                <StackLayout Margin="20">
+                    <Label Style="{DynamicResource headerStyle}" x:Name="Welcome_To" Text="Välkommen Till Polcirkelleden" HorizontalOptions="Center" HorizontalTextAlignment="Center" VerticalOptions="Start" FontSize="24" />
+                    <Label x:Name="Welcome_Info" Style="{DynamicResource labelStyle}" TextColor="White" Margin="0,15" LineBreakMode="WordWrap" Text="Denna 12 km långa led ligger i Serri naturreservat och slingrar sig genom Boreal skog och våtmarker. Stigen är relativt jämn med en höjdskillnad på ca 125m (se terrängprofilen). Du kommer att vandra mest längs öppna stigar. Leden tar dig även över långa spångar, broar och några smalare stigar, överväxta med trädrötter.
+
+Njut av naturen och stillheten!
+
+Öppna kartan när du är redo att börja utforska Polcirkelleden.">
+                    </Label>
+                    <Frame BackgroundColor="#35453e" HorizontalOptions="Center" Padding="5" HeightRequest="120">
+                        <control:ClickImage HorizontalOptions="Center" WidthRequest="120" VerticalOptions="Center" 
+                            Aspect="AspectFit" x:Name="map"
+                            Source="todoimage.png">
+                        </control:ClickImage>
+                    </Frame>
+                    <Label Style="{DynamicResource labelStyle}" TextColor="White" Margin="0,15" LineBreakMode="WordWrap" x:Name="Welcome_QR">
+                        <Label.Text>
+                            Och glöm inte att scanna QR-koderna du hittar utefter leden. De kan se ut t.ex. så här:
+                        </Label.Text>
+                    </Label>
+                    <Image HorizontalOptions="Center" WidthRequest="120" VerticalOptions="Start" Aspect="AspectFit" 
+                        Source="numbers1.png">
+                    </Image>
+                    <!--<Image x:Name="nunberImage" HorizontalOptions="Center" WidthRequest="120" VerticalOptions="Start" Aspect="AspectFit" Source="numbers1.png"></Image>-->
+                    <StackLayout Orientation="Vertical" Margin="20,20,0,20">
+                        <Button x:Name="Instructions" HorizontalOptions="End" VerticalOptions="End"/>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

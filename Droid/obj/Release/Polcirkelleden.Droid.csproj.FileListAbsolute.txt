@@ -1,0 +1,492 @@
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Polcirkelleden.Droid.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Polcirkelleden.Droid.pdb
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/se.sulaco.amuze_interactive.polcirkelleden.apk
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/se.sulaco.amuze_interactive.polcirkelleden-Signed.apk
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/FastAndroidCamera.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/FormsViewGroup.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/ModernHttpClient.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/MR.Gestures.Android.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/MR.Gestures.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Newtonsoft.Json.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Context.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Coordination.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Interop.WaitHandles.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Oop.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Tasks.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.Cancellation.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.Collections.Deque.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.Disposables.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/OkHttp.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.CurrentActivity.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.Abstractions.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Permissions.Abstractions.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Permissions.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/System.Collections.Immutable.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Annotations.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Compat.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Core.UI.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Core.Utils.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Design.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Fragment.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Media.Compat.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Transition.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.v4.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.v7.CardView.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.v7.Palette.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Core.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Maps.Android.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Maps.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Pages.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Platform.Android.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Platform.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Theme.Android.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Theme.Base.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Theme.Dark.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.GooglePlayServices.Base.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.GooglePlayServices.Basement.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.GooglePlayServices.Maps.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/ZXing.Net.Mobile.Core.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/ZXing.Net.Mobile.Forms.Android.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/ZXing.Net.Mobile.Forms.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/zxing.portable.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/ZXingNetMobile.dll
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/FastAndroidCamera.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/ModernHttpClient.dll.mdb
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Newtonsoft.Json.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Core.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Xaml.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Maps.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.CurrentActivity.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.Abstractions.pdb
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.Abstractions.dll.mdb
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.Abstractions.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.pdb
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.dll.mdb
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/MR.Gestures.Android.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/MR.Gestures.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.Collections.Deque.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/System.Collections.Immutable.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.Disposables.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.Cancellation.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Tasks.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Context.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Coordination.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Interop.WaitHandles.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Oop.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Permissions.Abstractions.pdb
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Permissions.Abstractions.dll.mdb
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Permissions.Abstractions.xml
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Permissions.pdb
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Permissions.dll.mdb
+/Users/sami/Projects/Polcirkelleden/Droid/bin/Release/Plugin.Permissions.xml
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.csprojResolveAssemblyReference.cache
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Annotations.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Compat.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Core.UI.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Core.Utils.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Media.Compat.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Fragment.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Transition.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.v7.Palette.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Vector.Drawable.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.v7.AppCompat.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Design.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.v4.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.v7.CardView.dll.stamp
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.csproj.CoreCompileInputs.cache
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.App.xaml.g.cs
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.PolcirkelledenPage.xaml.g.cs
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.Welcome.xaml.g.cs
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.MainPage.xaml.g.cs
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.MasterPage.xaml.g.cs
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.AboutUs.xaml.g.cs
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.Map.xaml.g.cs
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.Nature.xaml.g.cs
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.ObjectOne.xaml.g.cs
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.dll
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.pdb
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/android/bin/se.sulaco.amuze_interactive.polcirkelleden.apk
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/layout/tabbar.xml
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/layout/toolbar.xml
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/values/styles.xml
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable-hdpi/icon.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable-xhdpi/icon.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable-xxhdpi/icon.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable/contacts.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable/hamburger.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable/reminders.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable/todo.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable/icon.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable-nodpi/map.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable-nodpi/act_page_2_image_1.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable-nodpi/map2.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable-nodpi/map2_bw.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable-nodpi/qr.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable/arcticlogo.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable/todoimage.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable/aboutus.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/res/drawable/nature.png
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/R.cs.flag
+/Users/sami/Projects/Polcirkelleden/Droid/obj/Release/uploadflags.txt
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.csprojResolveAssemblyReference.cache
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Annotations.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Compat.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Core.UI.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Core.Utils.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Media.Compat.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Fragment.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Transition.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.v7.Palette.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Vector.Drawable.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.v7.AppCompat.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.Design.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.v4.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/XbdMerge/Xamarin.Android.Support.v7.CardView.dll.stamp
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.csproj.CoreCompileInputs.cache
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.App.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.PolcirkelledenPage.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.Welcome.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.MainPage.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.MasterPage.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.AboutUs.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.Map.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.Nature.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.ObjectOne.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.Instruction_Page1.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.pdb
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Polcirkelleden.Droid.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Polcirkelleden.Droid.pdb
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/se.sulaco.amuze_interactive.polcirkelleden.apk
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/se.sulaco.amuze_interactive.polcirkelleden-Signed.apk
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/FastAndroidCamera.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/FormsViewGroup.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/ModernHttpClient.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/MR.Gestures.Android.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/MR.Gestures.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Newtonsoft.Json.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Context.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Coordination.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Interop.WaitHandles.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Oop.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Tasks.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.Cancellation.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.Collections.Deque.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.Disposables.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/OkHttp.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.CurrentActivity.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.Abstractions.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Permissions.Abstractions.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Permissions.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/System.Collections.Immutable.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Annotations.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Compat.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Core.UI.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Core.Utils.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Design.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Fragment.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Media.Compat.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Transition.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.v4.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.v7.CardView.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.v7.Palette.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Core.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Maps.Android.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Maps.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Pages.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Platform.Android.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Platform.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Theme.Android.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Theme.Base.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Theme.Dark.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.GooglePlayServices.Base.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.GooglePlayServices.Basement.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.GooglePlayServices.Maps.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/ZXing.Net.Mobile.Core.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/ZXing.Net.Mobile.Forms.Android.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/ZXing.Net.Mobile.Forms.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/zxing.portable.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/ZXingNetMobile.dll
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/FastAndroidCamera.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/ModernHttpClient.dll.mdb
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Newtonsoft.Json.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Core.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Xaml.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Xamarin.Forms.Maps.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.CurrentActivity.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.Abstractions.pdb
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.Abstractions.dll.mdb
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.Abstractions.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.pdb
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.dll.mdb
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Geolocator.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/MR.Gestures.Android.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/MR.Gestures.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.Collections.Deque.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/System.Collections.Immutable.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.Disposables.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.Cancellation.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Tasks.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Context.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Coordination.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Interop.WaitHandles.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Nito.AsyncEx.Oop.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Permissions.Abstractions.pdb
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Permissions.Abstractions.dll.mdb
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Permissions.Abstractions.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Permissions.pdb
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Permissions.dll.mdb
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/bin/Release/Plugin.Permissions.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.Instruction_Page2.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.Instruction_Page3.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.ObjectPage_1.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.ObjectPage_2.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.ObjectPage_3.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/Polcirkelleden.Droid.ObjectPage_4.xaml.g.cs
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/android/bin/se.sulaco.amuze_interactive.polcirkelleden.apk
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/layout/tabbar.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/layout/toolbar.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/values/styles.xml
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable-hdpi/icon.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable-xhdpi/icon.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable-xxhdpi/icon.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable/contacts.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable/hamburger.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable/reminders.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable/todo.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable/icon.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable-nodpi/map.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable-nodpi/act_page_2_image_1.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable-nodpi/map2.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable-nodpi/map2_bw.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable-nodpi/qr.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable/arcticlogo.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable/todoimage.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable/aboutus.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/res/drawable/nature.png
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/R.cs.flag
+/Users/idsadmin/Desktop/VisualStudio2017Mac.Polcirkelleden/Droid/obj/Release/uploadflags.txt
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Polcirkelleden.Droid.dll.config
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Polcirkelleden.Droid.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Polcirkelleden.Droid.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\se.sulaco.amuze_interactive.polcirkelleden.apk
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\se.sulaco.amuze_interactive.polcirkelleden-Signed.apk
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\FastAndroidCamera.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\FormsViewGroup.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\ModernHttpClient.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\MR.Gestures.Android.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\MR.Gestures.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Newtonsoft.Json.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.AsyncEx.Context.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.AsyncEx.Coordination.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.AsyncEx.Interop.WaitHandles.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.AsyncEx.Oop.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.AsyncEx.Tasks.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.Cancellation.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.Collections.Deque.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.Disposables.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\OkHttp.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.CurrentActivity.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.DownloadManager.Abstractions.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.DownloadManager.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Geolocator.Abstractions.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Geolocator.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Permissions.Abstractions.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Permissions.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\System.Collections.Immutable.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.Annotations.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.Compat.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.Core.UI.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.Design.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.Fragment.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.Transition.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.v4.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.v7.Palette.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Core.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Maps.Android.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Maps.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Pages.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Platform.Android.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Platform.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Theme.Android.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Theme.Base.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Theme.Dark.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Xaml.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.GooglePlayServices.Base.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.GooglePlayServices.Basement.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.GooglePlayServices.Maps.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\ZXing.Net.Mobile.Core.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\ZXing.Net.Mobile.Forms.Android.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\ZXing.Net.Mobile.Forms.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\zxing.portable.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\ZXingNetMobile.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.DownloadManager.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.DownloadManager.Abstractions.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\FastAndroidCamera.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\ModernHttpClient.dll.mdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Newtonsoft.Json.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Core.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Xaml.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Maps.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.CurrentActivity.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Geolocator.Abstractions.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Geolocator.Abstractions.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Geolocator.Abstractions.dll.mdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Geolocator.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Geolocator.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Geolocator.dll.mdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\MR.Gestures.Android.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\MR.Gestures.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.Collections.Deque.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\System.Collections.Immutable.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.Disposables.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.Cancellation.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.AsyncEx.Tasks.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.AsyncEx.Context.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.AsyncEx.Coordination.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.AsyncEx.Interop.WaitHandles.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Nito.AsyncEx.Oop.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Permissions.Abstractions.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Permissions.Abstractions.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Permissions.Abstractions.dll.mdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Permissions.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Permissions.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Plugin.Permissions.dll.mdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.csproj.CoreCompileInputs.cache
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.App.xaml.g.cs
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.PolcirkelledenPage.xaml.g.cs
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.Welcome.xaml.g.cs
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.MainPage.xaml.g.cs
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.MasterPage.xaml.g.cs
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.AboutUs.xaml.g.cs
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.Map.xaml.g.cs
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.Nature.xaml.g.cs
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.ObjectOne.xaml.g.cs
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.Instruction_Page1.xaml.g.cs
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.Instruction_Page2.xaml.g.cs
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.Instruction_Page3.xaml.g.cs
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.csproj.CopyComplete
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\Polcirkelleden.Droid.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\bin\se.sulaco.amuze_interactive.polcirkelleden.apk
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\layout\tabbar.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\layout\toolbar.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\values\styles.xml
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-hdpi\icon.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-xhdpi\icon.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-xxhdpi\icon.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\contacts.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\reminders.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\todo.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\icon.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-nodpi\map.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-nodpi\act_page_2_image_1.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-nodpi\map2.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-nodpi\map2_bw.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-nodpi\qr.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\arcticlogo.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\todoimage.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\aboutus.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\nature.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-xxhdpi\reindeer.jpg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-xxhdpi\taiga.jpg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-xxhdpi\bear.jpg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-xxhdpi\birchpolypore.jpg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-xxhdpi\blackgrouse.jpg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-xxhdpi\freshwater.jpg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-xxhdpi\siberian.jpg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\iclapland.jpeg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\sparbankennord.jpg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\styrelsen.jpg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\swedish.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\english.jpg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\symbol.jpeg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable\act_page_3_image.jpg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-xxhdpi\iclapland.jpeg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-xxhdpi\sparbankennord.jpg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-xxhdpi\styrelsen.jpg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-xxhdpi\symbol.jpeg
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\res\drawable-nodpi\numbers1.png
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\R.cs.flag
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\uploadflags.txt
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Xamarin.Forms.Theme.Light.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Polcirkelleden.Droid.dll
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Microsoft.CSharp.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Mono.Android.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\mscorlib.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\System.Core.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\System.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\System.IO.Compression.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\System.Net.Http.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\System.Xml.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\System.Runtime.Serialization.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\System.ServiceModel.Internals.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\System.Numerics.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\System.Xml.Linq.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\Mono.Security.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Release\System.ComponentModel.Composition.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\Microsoft.CSharp.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\Mono.Android.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\mscorlib.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\System.Core.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\System.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\System.IO.Compression.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\System.Net.Http.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\System.Xml.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\System.Runtime.Serialization.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\System.Numerics.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\System.Xml.Linq.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\Mono.Security.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\Polcirkelleden.Droid.dll.mdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\ModernHttpClient.dll.mdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\Plugin.Geolocator.Abstractions.dll.mdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\Plugin.Geolocator.dll.mdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\Plugin.Permissions.Abstractions.dll.mdb
+D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\linksrc\Plugin.Permissions.dll.mdb

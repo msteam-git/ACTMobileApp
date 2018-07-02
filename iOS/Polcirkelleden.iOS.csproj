@@ -1,0 +1,784 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProjectGuid>{0D8EA3C8-BDAB-4F01-B47E-35E33425937D}</ProjectGuid>
+    <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Polcirkelleden.iOS</RootNamespace>
+    <AssemblyName>Polcirkelleden.iOS</AssemblyName>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG;ENABLE_TEST_CLOUD;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignKey>iPhone Developer: Ishan Sharma (4HBY654SVM)</CodesignKey>
+    <DeviceSpecificBuild>true</DeviceSpecificBuild>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchNoSymbolStrip>true</MtouchNoSymbolStrip>
+    <MtouchFastDev>true</MtouchFastDev>
+    <IOSDebuggerPort>59762</IOSDebuggerPort>
+    <MtouchLink>None</MtouchLink>
+    <MtouchArch>i386, x86_64</MtouchArch>
+    <MtouchHttpClientHandler>CFNetworkHandler</MtouchHttpClientHandler>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodesignProvision>VS: com.idsil.Polcirkelleden Development</CodesignProvision>
+    <MtouchProfiling>false</MtouchProfiling>
+    <MtouchFloat32>false</MtouchFloat32>
+    <MtouchSdkVersion>
+    </MtouchSdkVersion>
+    <OptimizePNGs>false</OptimizePNGs>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <DebugType>
+    </DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignKey>iPhone Distribution: Ids Infotech Ltd. (HL367T672U)</CodesignKey>
+    <MtouchFloat32>true</MtouchFloat32>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchLink>SdkOnly</MtouchLink>
+    <MtouchArch>ARMv7, ARM64</MtouchArch>
+    <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
+    <PlatformTarget>x86</PlatformTarget>
+    <BuildIpa>true</BuildIpa>
+    <IpaIncludeArtwork>false</IpaIncludeArtwork>
+    <CodesignProvision>Polcirkelleden_Profile</CodesignProvision>
+    <MtouchFastDev>true</MtouchFastDev>
+    <OptimizePNGs>false</OptimizePNGs>
+    <MtouchDebug>false</MtouchDebug>
+    <MtouchProfiling>false</MtouchProfiling>
+    <MtouchNoSymbolStrip>false</MtouchNoSymbolStrip>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <DebugType>
+    </DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignKey>iPhone Distribution: Ids Infotech Ltd. (HL367T672U)</CodesignKey>
+    <DeviceSpecificBuild>true</DeviceSpecificBuild>
+    <MtouchNoSymbolStrip>true</MtouchNoSymbolStrip>
+    <MtouchLink>None</MtouchLink>
+    <MtouchArch>i386, x86_64</MtouchArch>
+    <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodesignProvision>Polcirkelleden_Profile</CodesignProvision>
+    <MtouchFastDev>false</MtouchFastDev>
+    <MtouchDebug>false</MtouchDebug>
+    <MtouchProfiling>false</MtouchProfiling>
+    <MtouchEnableSGenConc>false</MtouchEnableSGenConc>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;ENABLE_TEST_CLOUD;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignKey>iPhone Distribution: Ids Infotech Ltd. (HL367T672U)</CodesignKey>
+    <DeviceSpecificBuild>false</DeviceSpecificBuild>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchNoSymbolStrip>false</MtouchNoSymbolStrip>
+    <MtouchFastDev>true</MtouchFastDev>
+    <MtouchFloat32>true</MtouchFloat32>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <IOSDebuggerPort>47679</IOSDebuggerPort>
+    <MtouchLink>SdkOnly</MtouchLink>
+    <MtouchArch>ARMv7, ARM64</MtouchArch>
+    <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
+    <PlatformTarget>x86</PlatformTarget>
+    <BuildIpa>true</BuildIpa>
+    <CodesignProvision>Polcirkelleden_Profile</CodesignProvision>
+    <IpaIncludeArtwork>true</IpaIncludeArtwork>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <AppExtensionDebugBundleId />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Xamarin.Forms.Theme.Light, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.Forms.Theme.Light.1.0.0.43-pre1\lib\Xamarin.iOS10\Xamarin.Forms.Theme.Light.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.iOS" />
+    <Reference Include="Xamarin.Forms.Core">
+      <HintPath>..\packages\Xamarin.Forms.2.3.4.231\lib\Xamarin.iOS10\Xamarin.Forms.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Platform">
+      <HintPath>..\packages\Xamarin.Forms.2.3.4.231\lib\Xamarin.iOS10\Xamarin.Forms.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Platform.iOS">
+      <HintPath>..\packages\Xamarin.Forms.2.3.4.231\lib\Xamarin.iOS10\Xamarin.Forms.Platform.iOS.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Xaml">
+      <HintPath>..\packages\Xamarin.Forms.2.3.4.231\lib\Xamarin.iOS10\Xamarin.Forms.Xaml.dll</HintPath>
+    </Reference>
+    <Reference Include="ZXing.Net.Mobile.Core">
+      <HintPath>..\packages\ZXing.Net.Mobile.2.2.9\lib\Xamarin.iOS10\ZXing.Net.Mobile.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.portable">
+      <HintPath>..\packages\ZXing.Net.Mobile.2.2.9\lib\Xamarin.iOS10\zxing.portable.dll</HintPath>
+    </Reference>
+    <Reference Include="ZXingNetMobile">
+      <HintPath>..\packages\ZXing.Net.Mobile.2.2.9\lib\Xamarin.iOS10\ZXingNetMobile.dll</HintPath>
+    </Reference>
+    <Reference Include="ModernHttpClient">
+      <HintPath>..\packages\modernhttpclient.2.4.2\lib\Xamarin.iOS10\ModernHttpClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Pages">
+      <HintPath>..\packages\Xamarin.Forms.Pages.2.3.0.38-pre2\lib\Xamarin.iOS10\Xamarin.Forms.Pages.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Theme.Base">
+      <HintPath>..\packages\Xamarin.Forms.Theme.Base.1.0.0.43-pre1\lib\Xamarin.iOS10\Xamarin.Forms.Theme.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Theme.iOS">
+      <HintPath>..\packages\Xamarin.Forms.Theme.Base.1.0.0.43-pre1\lib\Xamarin.iOS10\Xamarin.Forms.Theme.iOS.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Theme.Dark">
+      <HintPath>..\packages\Xamarin.Forms.Theme.Dark.1.0.0.43-pre1\lib\Xamarin.iOS10\Xamarin.Forms.Theme.Dark.dll</HintPath>
+    </Reference>
+    <Reference Include="ZXing.Net.Mobile.Forms">
+      <HintPath>..\packages\ZXing.Net.Mobile.Forms.2.2.9\lib\Xamarin.iOS10\ZXing.Net.Mobile.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="ZXing.Net.Mobile.Forms.iOS">
+      <HintPath>..\packages\ZXing.Net.Mobile.Forms.2.2.9\lib\Xamarin.iOS10\ZXing.Net.Mobile.Forms.iOS.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugin.Geolocator.Abstractions">
+      <HintPath>..\packages\Xam.Plugin.Geolocator.4.0.0.55-beta\lib\Xamarin.iOS10\Plugin.Geolocator.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugin.Geolocator">
+      <HintPath>..\packages\Xam.Plugin.Geolocator.4.0.0.55-beta\lib\Xamarin.iOS10\Plugin.Geolocator.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.Collections.Deque">
+      <HintPath>..\packages\Nito.Collections.Deque.1.0.0\lib\portable45-net45+win8+wp8+wpa81\Nito.Collections.Deque.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable">
+      <HintPath>..\packages\System.Collections.Immutable.1.2.0\lib\portable-net45+win8+wp8+wpa81\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.Disposables">
+      <HintPath>..\packages\Nito.Disposables.1.1.0\lib\portable45-net45+win8+wp8+wpa81\Nito.Disposables.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.Cancellation">
+      <HintPath>..\packages\Nito.Cancellation.1.0.1\lib\portable45-net45+win8+wp8+wpa81\Nito.Cancellation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="Nito.AsyncEx.Tasks">
+      <HintPath>..\packages\Nito.AsyncEx.Tasks.5.0.0-pre-02\lib\netstandard1.3\Nito.AsyncEx.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.AsyncEx.Context">
+      <HintPath>..\packages\Nito.AsyncEx.Context.5.0.0-pre-02\lib\netstandard1.3\Nito.AsyncEx.Context.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.AsyncEx.Coordination">
+      <HintPath>..\packages\Nito.AsyncEx.Coordination.5.0.0-pre-02\lib\netstandard1.3\Nito.AsyncEx.Coordination.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.AsyncEx.Interop.WaitHandles">
+      <HintPath>..\packages\Nito.AsyncEx.Interop.WaitHandles.5.0.0-pre-02\lib\netstandard1.3\Nito.AsyncEx.Interop.WaitHandles.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.AsyncEx.Oop">
+      <HintPath>..\packages\Nito.AsyncEx.Oop.5.0.0-pre-02\lib\netstandard1.3\Nito.AsyncEx.Oop.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugin.Permissions.Abstractions">
+      <HintPath>..\packages\Plugin.Permissions.1.3.1.20-beta\lib\Xamarin.iOS10\Plugin.Permissions.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugin.Permissions">
+      <HintPath>..\packages\Plugin.Permissions.1.3.1.20-beta\lib\Xamarin.iOS10\Plugin.Permissions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Info.plist" />
+    <None Include="Entitlements.plist" />
+    <None Include="packages.config" />
+    <BundleResource Include="Resources\Cabin-Bold.ttf" />
+    <BundleResource Include="Resources\Cabin-BoldItalic.ttf" />
+    <BundleResource Include="Resources\Cabin-Italic.ttf" />
+    <BundleResource Include="Resources\Cabin-Medium.ttf" />
+    <BundleResource Include="Resources\Cabin-MediumItalic.ttf" />
+    <BundleResource Include="Resources\Cabin-Regular.ttf" />
+    <BundleResource Include="Resources\Cabin-SemiBold.ttf" />
+    <BundleResource Include="Resources\Cabin-SemiBoldItalic.ttf" />
+    <BundleResource Include="Resources\Contents.json" />
+    <InterfaceDefinition Include="LaunchScreen.storyboard" />
+    <BundleResource Include="Resources\Default-568h%402x.png" />
+    <BundleResource Include="Resources\Lobster-Regular.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AudioPlayerService.cs" />
+    <Compile Include="CustomStatusBar.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+    <Compile Include="CustomClasses.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\aboutus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\act_page_2_image_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\arcticlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\contacts%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-20x20%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-20x20%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-20x20%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-29x29%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-29x29%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-29x29%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-40x40%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-40x40%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-40x40%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-57x57%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-57x57%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-60%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-60%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-60x60%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-60x60%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-60x60%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-72x72%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-72x72%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-76.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-76%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-76%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-76x76%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-76x76%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-83.5x83.5%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-20x20%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-20x20%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-20x20%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-29x29%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-29x29%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-29x29%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-40x40%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-40x40%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-40x40%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-57x57%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-57x57%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-60x60%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-60x60%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-60x60%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-72x72%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-72x72%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-76x76%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-76x76%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-76x76%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-App-83.5x83.5%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small-40%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small-40%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small-50x50%401x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small-50x50%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-Small%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Map.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\map2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\map2_bw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\nature.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\qr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\reminders.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\reminders%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\testmap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\todo%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\todoimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\trailmapfinal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Html_Instructions\Instruction_Eng1.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Html_Instructions\Instruction_Eng2.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Html_Instructions\Instruction_Eng3.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Nature_Html\Bear_Eng.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Nature_Html\Bear_SV.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Nature_Html\BirchPolypore_Eng.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Nature_Html\BirchPolypore_SV.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Nature_Html\BlackGrouse_Eng.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Nature_Html\BlackGrouse_SV.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Nature_Html\Reindeer_Eng.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Nature_Html\Reindeer_SV.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Html_Instructions\Instruction_SV1.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Html_Instructions\Instruction_SV2.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Html_Instructions\Instruction_SV3.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Map_Swedish.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Map_Icons\symb-parkering.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Images\Start.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\English.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Swedish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ICLapland.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\symbol.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\styrelsen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sparbankennord.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_Page__8_A_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_Page__8_B_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_Page__8_C_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_Page__8_D_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_Page__8_E_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_Page__8_F_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Taiga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Bear.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\BirchPolypore.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\BlackGrouse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Freshwater.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Reindeer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Siberian.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Map_Icons\symb-sevardhet-farg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\contacts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\todo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_B_image_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Map_Icons\symb-rastplats.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Map_Icons\Vattenplats-farg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_D_image_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_C_image_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_H_image_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_i_image_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_K_image_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_L_image_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Map_Icons\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Map_Icons\Norrpil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Map_Icons\Polcirkeln.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Map_Icons\symb-fornlamn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Custom.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_F_image_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_image_J_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_M_image_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_image_N_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ACT_Page_3_image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_A_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_A_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_B_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_B_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_C_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_C_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_D_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_D_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_F_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_G_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_G_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_H_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_H_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_i_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_I_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_J_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_J_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_K_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_K_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_L_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_L_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_M_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_N_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_N_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Map_Icons\symb-parkering1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ACT_Page_3_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ACT_Page_3_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\numbers1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hamburger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hamburger%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Nature_Html\Freshwater_Eng.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Nature_Html\Freshwater_SV.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Nature_Html\Taiga_Eng.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Nature_Html\Taiga_SV.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\trailmapfinalResized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ICLapland combined.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Lansstyrelsen logo with white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sparbankennord-300 logga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Droid\Polcirkelleden.Droid.csproj">
+      <Project>{3095D124-9179-4DF9-9736-1A9511EB1D32}</Project>
+      <Name>Polcirkelleden.Droid</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\spinner.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageAsset Include="Media.xcassets\AppIcons.appiconset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\LaunchImages.launchimage\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+  </ItemGroup>
+  <Import Project="..\Polcirkelleden\Polcirkelleden.projitems" Label="Shared" Condition="Exists('..\Polcirkelleden\Polcirkelleden.projitems')" />
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+  <Import Project="..\packages\Xamarin.Forms.2.3.4.231\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.2.3.4.231\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets')" />
+</Project>

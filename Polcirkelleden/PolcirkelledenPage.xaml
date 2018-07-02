@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:local="clr-namespace:Polcirkelleden" 
+    x:Class="Polcirkelleden.PolcirkelledenPage" BackgroundImage="map.png">
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <Image Source="arcticlogo.png" WidthRequest="200">
+            <Image.Margin>
+                0,0,0,20
+            </Image.Margin>
+        </Image>
+        <Label Style="{StaticResource headerStyle}" Text="Polcirkelleden" VerticalOptions="Center" HorizontalOptions="Center" FontSize="50" TextColor="White">
+        </Label>
+        <Label Text="Arctic Circle Gateway" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20" TextColor="White" />
+        <Label Text="Välj språk / Choose language" Margin="20" HorizontalOptions="Center" TextColor="White">
+        </Label>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <!--<Button x:Name="swedish"  Text="Svenska" Style="{StaticResource buttonStyle}" Margin="0,0,7,0">
+            </Button>
+            <Button x:Name="english" Text="English" Style="{StaticResource buttonStyle}" Margin="7,0,0,0">
+            </Button>-->
+
+            <Image x:Name="swedish" WidthRequest="100" HeightRequest="70" Source="Swedish.png" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Margin="0,0,7,0" ></Image>
+            <Image x:Name="english" WidthRequest="100" HeightRequest="70" Source="English.jpg" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Margin="7,0,0,0"></Image>
+
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

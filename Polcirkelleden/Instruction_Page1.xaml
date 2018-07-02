@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="Polcirkelleden.Instruction_Page1"
+    Title="Instructions" BackgroundColor="#406453" NavigationPage.HasBackButton="False">
+    <ContentPage.Content>
+        <ScrollView Orientation="Vertical" VerticalOptions="StartAndExpand">
+            <StackLayout>
+                <StackLayout Padding="0">
+                    <Image HorizontalOptions="FillAndExpand" VerticalOptions="Start" Aspect="AspectFill" HeightRequest="300"  Source="ACT_Page_3_image.jpg"></Image>
+                </StackLayout>
+                <!--<Button Text="{Binding CommandText}"  Command="{Binding PlayPauseCommand}" x:Name="InstructionsPlay" CommandParameter="7"/>-->
+                <StackLayout>
+                    <WebView x:Name="webView" WidthRequest="600" HeightRequest="550" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+                </StackLayout>
+                <StackLayout Margin="10,0,0,20" Orientation="Vertical"  VerticalOptions="End" HorizontalOptions="End">
+                    <Button x:Name="nextButton" Text="Next Page" VerticalOptions="End" HorizontalOptions="End" />
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

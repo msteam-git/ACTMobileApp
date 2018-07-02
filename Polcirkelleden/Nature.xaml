@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 x:Class="Polcirkelleden.Nature"
+			 Title="Nature" BackgroundColor="#406453" x:Name="tabbedPage" >
+    <TabbedPage.Children>
+        <!--Contect Page 1-->
+    <ContentPage x:Name="Reindeer" BackgroundColor="#406453" >
+        <!--<ContentPage.ToolbarItems>
+            <ToolbarItem Text="Skanna QR-kod" Icon="reminders.png" Order="Primary" x:Name="qrscan" />
+        </ContentPage.ToolbarItems>-->
+        <ContentPage.Content>
+            <ScrollView BackgroundColor="#406453">
+               <!--<StackLayout>-->
+                <StackLayout Padding="0" Orientation="Vertical">
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblReindeerHeader" Text="Reindeer" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Image HorizontalOptions="FillAndExpand" VerticalOptions="Start" Aspect="AspectFill"  Source="Reindeer.jpg" HeightRequest="250"></Image>
+                    <StackLayout Orientation="Vertical">                        
+                        <WebView x:Name="reindeerWebView" WidthRequest="600" HeightRequest="600" />
+                    </StackLayout>
+                <!--</StackLayout>-->
+                </StackLayout>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <!--Contect Page 2-->
+    <ContentPage x:Name="Taiga" BackgroundColor="#406453">
+        <ContentPage.Content>
+            <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
+                <StackLayout>
+                    <StackLayout Padding="0">
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblTaigaHeader" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Image HorizontalOptions="FillAndExpand" VerticalOptions="Start" Aspect="AspectFill"  HeightRequest="250" Source="Taiga.jpg"></Image>
+                    </StackLayout>
+                    <!--<Button Text="{Binding CommandText}"  Command="{Binding PlayPauseCommand}" x:Name="TaigaPlay" CommandParameter="2"/>-->
+                    <StackLayout>
+                        <WebView x:Name="taigaWebView" WidthRequest="100" HeightRequest="50" Margin="30,05"/>
+                        <Label x:Name="lblTaiga" Style="{DynamicResource labelStyle}" TextColor="White" Margin="30,05" LineBreakMode="WordWrap"></Label>
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <!--Contect Page 3-->
+    <ContentPage x:Name="BirchPolypore" BackgroundColor="#406453">
+        <ContentPage.Content>
+            <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
+                <StackLayout>
+                    <StackLayout Padding="0">
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblBirchPolyporeHeader" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Image Source="BirchPolypore.jpg" HorizontalOptions="FillAndExpand" VerticalOptions="Start" Aspect="AspectFill" HeightRequest="250"></Image>
+                    </StackLayout>
+                    <!--<Button Text="{Binding CommandText}"  Command="{Binding PlayPauseCommand}" x:Name="BirchPlay" CommandParameter="3"/>-->
+                    <StackLayout>
+                        <WebView x:Name="birchWebView" WidthRequest="600" HeightRequest="400" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <!--Contect Page 4-->
+    <ContentPage x:Name="Black" BackgroundColor="#406453">
+        <ContentPage.Content>
+            <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
+                <StackLayout>
+                    <StackLayout Padding="0">
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblBlackHeader" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Image Source="BlackGrouse.jpg" HorizontalOptions="FillAndExpand" VerticalOptions="Start" HeightRequest="250" Aspect="AspectFill"></Image>
+                    </StackLayout>
+                    <!--<Button Text="{Binding CommandText}"  Command="{Binding PlayPauseCommand}" x:Name="GrousePlay" CommandParameter="4"/>-->
+                    <StackLayout>
+                        <WebView x:Name="blackWebView" WidthRequest="600" HeightRequest="600" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <!--Contect Page 5-->
+    <ContentPage x:Name="Bear" BackgroundColor="#406453">
+        <ContentPage.Content>
+            <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
+                <StackLayout>
+                    <StackLayout Padding="0">
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblBearHeader" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Image Source="Bear.jpg" HorizontalOptions="FillAndExpand" VerticalOptions="Start" HeightRequest="250" Aspect="AspectFill"></Image>
+                    </StackLayout>
+                    <!--<Button Text="{Binding CommandText}"  Command="{Binding PlayPauseCommand}" x:Name="BearPlay" CommandParameter="5"/>-->
+                    <StackLayout Margin="10">
+                        <WebView x:Name="bearWebView" WidthRequest="600" HeightRequest="400" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <!--Contect Page 6-->
+    <ContentPage x:Name="Freshwater" BackgroundColor="#406453">
+        <ContentPage.Content>
+            <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
+                <StackLayout>
+                    <StackLayout Padding="0">
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblFreshwaterHeader" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Image Source="Freshwater.JPG" HorizontalOptions="FillAndExpand" VerticalOptions="Start" HeightRequest="250" Aspect="AspectFill" ></Image>
+                    </StackLayout>
+                    <StackLayout>
+                        <WebView x:Name="freshWaterWebView" WidthRequest="100" HeightRequest="50" Margin="30,05"/>
+                        <Label x:Name="lblFreshWater" Style="{DynamicResource labelStyle}" TextColor="White" Margin="30,05" LineBreakMode="WordWrap"></Label>
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <!--Contect Page 7-->
+    <ContentPage x:Name="Siberian" BackgroundColor="#406453">
+        <ContentPage.Content>
+            <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
+                <StackLayout>
+                    <StackLayout Padding="0">
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblSiberianHeader" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Image Source="Siberian.jpg" HorizontalOptions="FillAndExpand" VerticalOptions="Start" HeightRequest="250" Aspect="AspectFill" ></Image>
+                    </StackLayout>
+                    <StackLayout>
+                        <Label x:Name="lblSiberian" Style="{DynamicResource labelStyle}" TextColor="White" Margin="30,20" LineBreakMode="WordWrap"></Label>
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+        </TabbedPage.Children>
+</TabbedPage>

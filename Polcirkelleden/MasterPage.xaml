@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 x:Class="Polcirkelleden.MasterPage"
+             xmlns:control="clr-namespace:Polcirkelleden" 
+             xmlns:p="clr-namespace:Xamarin.Forms.Pages"
+			 Padding="0,40,0,0">
+	<ContentPage.Content>
+		<StackLayout VerticalOptions="FillAndExpand">
+            <Image Source="arcticlogo.png" HeightRequest="100" HorizontalOptions="Center" Margin="20,0,20,20"></Image>
+			<ListView x:Name="listView" VerticalOptions="FillAndExpand" RowHeight="50">
+				<ListView.ItemTemplate>
+					<DataTemplate>
+                        <ImageCell Text="{Binding Title}" ImageSource="{Binding IconSource}" />			
+					</DataTemplate>
+				</ListView.ItemTemplate>
+			</ListView>
+            <Button Text="Byt språk / Change language" HorizontalOptions="Center" x:Name="change" Margin="20,30"></Button>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 x:Class="Polcirkelleden.AboutUs"
+			 Title="Om Oss" BackgroundColor="#406453">
+    <!--<ContentPage.ToolbarItems>
+        <ToolbarItem Text="Skanna QR-kod" Icon="reminders.png" Order="Primary" x:Name="qrscan" />
+    </ContentPage.ToolbarItems>-->
+	<ContentPage.Content>
+        <!--<ScrollView Orientation="Vertical" VerticalOptions="StartAndExpand" x:Name="scroll">-->
+    		<StackLayout>
+                <WebView x:Name="instructionWebView" WidthRequest="600" HeightRequest="1300" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+            </StackLayout>
+        <!--</ScrollView>-->
+	</ContentPage.Content>
+</ContentPage>
