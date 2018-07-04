@@ -27,7 +27,12 @@ namespace Polcirkelleden
             if (Device.RuntimePlatform == Device.iOS)
             {
                 NavigationPage.SetBackButtonTitle(this, "");
-                webView.HeightRequest = 620;
+                if (Application.Current.Properties["Language"].ToString() == "English")
+                {
+                    webView.HeightRequest = 1050;
+                }
+                else
+                    webView.HeightRequest = 1200;
                 //webView.IsEnabled = false;
             }
         }
@@ -49,7 +54,9 @@ namespace Polcirkelleden
             //var baseURL = DependencyService.Get<IBaseUrl>().Get();
             //source.Url = Application.Current.Properties["Language"].ToString() == "English" ? System.IO.Path.Combine(baseURL, "Html_Instructions/Instruction_Eng1.html") : System.IO.Path.Combine(baseURL, "Html_Instructions/Instruction_SV1.html");
             //webView.Source = source;
-            await Navigation.PushAsync(new Instruction_Page2());
+            Application.Current.Properties["GotIt"] = true;
+            Application.Current.MainPage = new Polcirkelleden.MainPage();
+            //await Navigation.PushAsync(new Instruction_Page2());
         }
 
         void SetControlLanguage()
@@ -57,7 +64,7 @@ namespace Polcirkelleden
             try
             {
                 Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Welcome_Instruction : AppResourceSweden.Welcome_Instruction;
-                nextButton.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.NextPage : AppResourceSweden.NextPage;
+                nextButton.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.GotIt : AppResourceSweden.GotIt;
             }
             catch (Exception ex)
             {

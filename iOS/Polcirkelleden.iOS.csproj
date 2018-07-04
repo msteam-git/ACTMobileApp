@@ -86,7 +86,7 @@
     <DefineConstants>DEBUG;ENABLE_TEST_CLOUD;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <CodesignKey>iPhone Distribution: Ids Infotech Ltd. (HL367T672U)</CodesignKey>
+    <CodesignKey>iPhone Developer: Ishan Sharma (4HBY654SVM)</CodesignKey>
     <DeviceSpecificBuild>false</DeviceSpecificBuild>
     <MtouchDebug>true</MtouchDebug>
     <MtouchNoSymbolStrip>false</MtouchNoSymbolStrip>
@@ -99,7 +99,7 @@
     <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
     <PlatformTarget>x86</PlatformTarget>
     <BuildIpa>true</BuildIpa>
-    <CodesignProvision>Polcirkelleden_Profile</CodesignProvision>
+    <CodesignProvision>VS: com.idsil.Polcirkelleden Development</CodesignProvision>
     <IpaIncludeArtwork>true</IpaIncludeArtwork>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
@@ -777,6 +777,19 @@
     <ImageAsset Include="Media.xcassets\LaunchImages.launchimage\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <BundleResource Include="Resources\Welcome\Welcome_Eng.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Welcome\Welcome_SV.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Welcome\ACT_Page_2_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Welcome\ACT_Page_2_audio_SV.mp3" />
   </ItemGroup>
   <Import Project="..\Polcirkelleden\Polcirkelleden.projitems" Label="Shared" Condition="Exists('..\Polcirkelleden\Polcirkelleden.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />

@@ -619,6 +619,18 @@
   <ItemGroup>
     <AndroidAsset Include="Assets\Lansstyrelsen logo with white.png" />
   </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Welcome\Welcome_Eng.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Welcome\Welcome_SV.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Welcome\ACT_Page_2_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Welcome\ACT_Page_2_audio_SV.mp3" />
+  </ItemGroup>
   <Import Project="..\Polcirkelleden\Polcirkelleden.projitems" Label="Shared" Condition="Exists('..\Polcirkelleden\Polcirkelleden.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Build.Download.0.4.3\build\Xamarin.Build.Download.targets" Condition="Exists('..\packages\Xamarin.Build.Download.0.4.3\build\Xamarin.Build.Download.targets')" />

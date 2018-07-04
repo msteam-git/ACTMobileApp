@@ -11,8 +11,7 @@
 namespace Polcirkelleden {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Latest\\Mac Copy_Deepak2 - Copy\\VisualStudio2017Mac.Polcirkelleden\\Polcirkelled" +
-        "en\\Instruction_Page1.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Latest\\ACTMobileApp2018\\ACTMobileApp\\Polcirkelleden\\Instruction_Page1.xaml")]
     public partial class Instruction_Page1 : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

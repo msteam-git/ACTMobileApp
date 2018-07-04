@@ -11,8 +11,7 @@
 namespace Polcirkelleden {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Latest\\Mac Copy_Deepak2 - Copy\\VisualStudio2017Mac.Polcirkelleden\\Polcirkelled" +
-        "en\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Latest\\ACTMobileApp2018\\ACTMobileApp\\Polcirkelleden\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.MasterDetailPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

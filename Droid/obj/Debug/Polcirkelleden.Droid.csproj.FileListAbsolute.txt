@@ -167,7 +167,6 @@ D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\D
 D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Debug\R.cs.flag
 D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Debug\uploadflags.txt
 D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Debug\Polcirkelleden.Droid.csprojResolveAssemblyReference.cache
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Debug\Polcirkelleden.Droid.dll
 D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Debug\Microsoft.CSharp.pdb
 D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Debug\Mono.Android.pdb
 D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\bin\Debug\mscorlib.pdb

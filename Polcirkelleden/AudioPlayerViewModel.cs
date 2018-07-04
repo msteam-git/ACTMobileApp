@@ -136,6 +136,7 @@ namespace Polcirkelleden
                       }
                   }));
             }
+
         }
 
         protected void OnPropertyChanged(string propertyName)

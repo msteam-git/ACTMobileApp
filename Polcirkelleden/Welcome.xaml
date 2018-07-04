@@ -27,6 +27,9 @@ Njut av naturen och stillheten!
                             Source="todoimage.png">
                         </control:ClickImage>
                     </Frame>
+                    <StackLayout>
+                    <WebView x:Name="welcomeAudioWebView" WidthRequest="600" HeightRequest="50" Margin="0" />
+                    </StackLayout>
                     <Label Style="{DynamicResource labelStyle}" TextColor="White" Margin="0,15" LineBreakMode="WordWrap" x:Name="Welcome_QR">
                         <Label.Text>
                             Och glöm inte att scanna QR-koderna du hittar utefter leden. De kan se ut t.ex. så här:

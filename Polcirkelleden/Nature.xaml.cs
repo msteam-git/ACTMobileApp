@@ -24,7 +24,6 @@ namespace Polcirkelleden
                 Black.Disappearing += Black_Disappearing;
                 Bear.Disappearing += Bear_Disappearing;
                 Freshwater.Disappearing += Freshwater_Disappearing;
-                //var a=this.Children.IndexOf(this.CurrentPage).GetType().GetProperty("Name").GetValue(this, null).ToString();
                    
             }
             catch (Exception ex)
@@ -34,67 +33,6 @@ namespace Polcirkelleden
             }
         }
 
-       
-
-        ///// <summary>
-        ///// Reindeer button click
-        ///// </summary>
-        ///// <param name="sender"></param>
-        ///// <param name="e"></param>
-        //private void ReindeerPlayClick(object sender, EventArgs e)
-        //{
-        //    ReindeerPlay.Text = AudioPlayerViewModel.instance.CommandText == "Audio Information" ? "Audio Information" : "Pause";
-        //}
-
-        ///// <summary>
-        ///// Taiga button click
-        ///// </summary>
-        ///// <param name="sender"></param>
-        ///// <param name="e"></param>
-        //private void TaigaPlayClick(object sender, EventArgs e)
-        //{
-        //    TaigaPlay.Text = AudioPlayerViewModel.instance.CommandText == "Audio Information" ? "Audio Information" : "Pause";
-        //}
-
-        ///// <summary>
-        ///// Birch audio button click
-        ///// </summary>
-        ///// <param name="sender"></param>
-        ///// <param name="e"></param>
-        //private void BirchPlayClick(object sender, EventArgs e)
-        //{
-        //    BirchPlay.Text = AudioPlayerViewModel.instance.CommandText == "Audio Information" ? "Audio Information" : "Pause";
-        //}
-
-        ///// <summary>
-        ///// Grouse audio button click
-        ///// </summary>
-        ///// <param name="sender"></param>
-        ///// <param name="e"></param>
-        //private void GrousePlayClick(object sender, EventArgs e)
-        //{
-        //    GrousePlay.Text = AudioPlayerViewModel.instance.CommandText == "Audio Information" ? "Audio Information" : "Pause";
-        //}
-
-        ///// <summary>
-        ///// Bear audio button click
-        ///// </summary>
-        ///// <param name="sender"></param>
-        ///// <param name="e"></param>
-        //private void BearPlayClick(object sender, EventArgs e)
-        //{
-        //    BearPlay.Text = AudioPlayerViewModel.instance.CommandText == "Audio Information" ? "Audio Information" : "Pause";
-        //}
-
-        ///// <summary>
-        ///// Mussel audio button click
-        ///// </summary>
-        ///// <param name="sender"></param>
-        ///// <param name="e"></param>
-        //private void MusselPlayClick(object sender, EventArgs e)
-        //{
-        //    MusselPlay.Text = AudioPlayerViewModel.instance.CommandText == "Audio Information" ? "Audio Information" : "Pause";
-        //}
 
         /// <summary>
         /// Set Language of specific controls on page
@@ -103,15 +41,6 @@ namespace Polcirkelleden
         {
             // Tabbed Page Title
             Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Animal_Header : AppResourceSweden.Animal_Header;
-
-            // Content Pages Title
-            //Reindeer.Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleA : AppResourceSweden.Aminal_TitleA;
-            //Taiga.Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleB : AppResourceSweden.Aminal_TitleB;
-            //BirchPolypore.Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleC : AppResourceSweden.Aminal_TitleC;
-            //Black.Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleD : AppResourceSweden.Aminal_TitleD;
-            //Bear.Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleE : AppResourceSweden.Aminal_TitleE;
-            //Freshwater.Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleF : AppResourceSweden.Aminal_TitleF;
-            //Siberian.Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleG : AppResourceSweden.Aminal_TitleG;
 
             lblReindeerHeader.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleA : AppResourceSweden.Aminal_TitleA;
             lblTaigaHeader.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleB : AppResourceSweden.Aminal_TitleB;
@@ -188,28 +117,6 @@ namespace Polcirkelleden
            
         }
 
-        //private void TabbedPage_CurrentPageChanged(object sender, EventArgs e)
-        //{
-        //    try
-        //    {
-        //        //DependencyService.Get<IAudioPlayerService>().Stop();
-        //        //ReindeerPlay.Text = "Audio Information";
-        //        //TaigaPlay.Text = "Audio Information";
-        //        //BirchPlay.Text = "Audio Information";
-        //        //GrousePlay.Text = "Audio Information";
-        //        //BearPlay.Text = "Audio Information";
-        //        //MusselPlay.Text = "Audio Information";
-        //        //AudioPlayerViewModel.instance._isStopped = true;
-        //        //AudioPlayerViewModel.instance.CommandText = "Audio Information";
-        //    }
-        //    catch (Exception ex)
-        //    {
-        //        Debug.WriteLine("Nature() Exception !!!");
-        //        Debug.WriteLine("Exception Description: " + ex);
-        //    }
-        //}
-
-
 
         /// <summary>
         /// Phone back button click
@@ -217,11 +124,6 @@ namespace Polcirkelleden
         /// <returns></returns>
         protected override bool OnBackButtonPressed()
         {
-            //stop the videoview
-            //DependencyService.Get<IAudioPlayerService>().Stop();
-            //AudioPlayerViewModel.instance._isStopped = true;
-            //AudioPlayerViewModel.instance.CommandText = "Audio Information";
-
             reindeerWebView.Eval("stopAudio()");
             taigaWebView.Eval("stopAudio()");
             blackWebView.Eval("stopAudio()");

@@ -12,10 +12,10 @@
                 </StackLayout>
                 <!--<Button Text="{Binding CommandText}"  Command="{Binding PlayPauseCommand}" x:Name="InstructionsPlay" CommandParameter="7"/>-->
                 <StackLayout>
-                    <WebView x:Name="webView" WidthRequest="600" HeightRequest="550" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+                    <WebView x:Name="webView" WidthRequest="600" HeightRequest="850" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
                 </StackLayout>
-                <StackLayout Margin="10,0,0,20" Orientation="Vertical"  VerticalOptions="End" HorizontalOptions="End">
-                    <Button x:Name="nextButton" Text="Next Page" VerticalOptions="End" HorizontalOptions="End" />
+                <StackLayout Margin="10,0,10,20" Orientation="Vertical"  VerticalOptions="End" HorizontalOptions="End">
+                    <Button x:Name="nextButton" Text="Start" VerticalOptions="End" HorizontalOptions="End" />
                 </StackLayout>
             </StackLayout>
         </ScrollView>
