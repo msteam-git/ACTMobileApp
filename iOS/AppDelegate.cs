@@ -14,9 +14,17 @@ namespace Polcirkelleden.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             UIApplication.SharedApplication.StatusBarHidden = false;
+
             var x = typeof(Xamarin.Forms.Themes.DarkThemeResources);
-            //x = typeof(Xamarin.Forms.Themes.iOS.CornerRadiusEffect);
+            //x = typeof(Xamarin.Forms.Themes.LightThemeResources);
             //x = typeof(Xamarin.Forms.Themes.iOS.UnderlineEffect);
+
+            // New code added for build in release mode
+            if(x == typeof(Xamarin.Forms.Themes.DarkThemeResources))
+            {
+                x = typeof(Xamarin.Forms.Themes.iOS.ShadowEffect);
+            }
+
             ZXing.Net.Mobile.Forms.iOS.Platform.Init();
             
             global::Xamarin.Forms.Forms.Init();

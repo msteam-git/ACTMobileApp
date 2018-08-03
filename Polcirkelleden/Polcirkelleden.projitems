@@ -54,6 +54,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)AudioPlayerViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Interfaces\IAudioManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Interfaces\ICustomStatusBarService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\ITabbedPage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)PolcirkelledenPage.xaml.cs">
       <DependentUpon>PolcirkelledenPage.xaml</DependentUpon>
     </Compile>

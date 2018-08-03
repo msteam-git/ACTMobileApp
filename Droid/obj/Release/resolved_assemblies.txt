@@ -1,105 +1,105 @@
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Polcirkelleden.Droid.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\FastAndroidCamera.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\FormsViewGroup.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Java.Interop.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Microsoft.CSharp.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\ModernHttpClient.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Mono.Android.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\MR.Gestures.Android.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\MR.Gestures.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\mscorlib.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Newtonsoft.Json.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Nito.AsyncEx.Context.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Nito.AsyncEx.Coordination.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Nito.AsyncEx.Interop.WaitHandles.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Nito.AsyncEx.Oop.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Nito.AsyncEx.Tasks.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Nito.Cancellation.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Nito.Collections.Deque.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Nito.Disposables.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\OkHttp.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Plugin.CurrentActivity.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Plugin.DownloadManager.Abstractions.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Plugin.DownloadManager.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Plugin.Geolocator.Abstractions.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Plugin.Geolocator.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Plugin.Permissions.Abstractions.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Plugin.Permissions.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Collections.Immutable.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Core.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.IO.Compression.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Net.Http.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Runtime.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Xml.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.Annotations.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.Compat.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.Core.UI.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.Core.Utils.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.Design.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.Fragment.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.Media.Compat.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.Transition.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.v4.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.v7.CardView.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.v7.Palette.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Forms.Core.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Forms.Maps.Android.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Forms.Maps.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Forms.Pages.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Forms.Platform.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Forms.Theme.Android.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Forms.Theme.Base.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Forms.Theme.Dark.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Forms.Theme.Light.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.Forms.Xaml.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.GooglePlayServices.Base.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.GooglePlayServices.Basement.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Xamarin.GooglePlayServices.Maps.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\ZXing.Net.Mobile.Core.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\ZXing.Net.Mobile.Forms.Android.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\ZXing.Net.Mobile.Forms.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\zxing.portable.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\ZXingNetMobile.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Threading.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Collections.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Collections.Concurrent.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Reflection.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Diagnostics.Debug.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Linq.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Runtime.InteropServices.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Runtime.Extensions.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Reflection.Extensions.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Reflection.Primitives.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Runtime.Serialization.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.ServiceModel.Internals.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Resources.ResourceManager.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.ObjectModel.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.IO.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Runtime.Numerics.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Numerics.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Xml.XmlDocument.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Xml.XDocument.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Xml.Linq.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Globalization.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Threading.Tasks.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Runtime.Serialization.Primitives.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.ComponentModel.TypeConverter.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Dynamic.Runtime.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Linq.Expressions.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Runtime.Serialization.Formatters.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Text.RegularExpressions.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Xml.ReaderWriter.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Text.Encoding.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Text.Encoding.Extensions.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Threading.ThreadPool.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\Mono.Security.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.ComponentModel.Composition.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.ComponentModel.dll
-D:\Latest\Mac Copy_Deepak2 - Copy\VisualStudio2017Mac.Polcirkelleden\Droid\obj\Release\android\assets\System.Diagnostics.Tools.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Polcirkelleden.Droid.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\FastAndroidCamera.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\FormsViewGroup.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Java.Interop.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Microsoft.CSharp.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\ModernHttpClient.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Mono.Android.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\MR.Gestures.Android.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\MR.Gestures.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\mscorlib.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Newtonsoft.Json.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Nito.AsyncEx.Context.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Nito.AsyncEx.Coordination.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Nito.AsyncEx.Interop.WaitHandles.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Nito.AsyncEx.Oop.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Nito.AsyncEx.Tasks.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Nito.Cancellation.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Nito.Collections.Deque.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Nito.Disposables.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\OkHttp.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Plugin.CurrentActivity.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Plugin.DownloadManager.Abstractions.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Plugin.DownloadManager.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Plugin.Geolocator.Abstractions.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Plugin.Geolocator.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Plugin.Permissions.Abstractions.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Plugin.Permissions.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Collections.Immutable.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Core.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.IO.Compression.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Net.Http.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Runtime.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Xml.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.Compat.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.Design.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.Transition.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.v4.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.v7.Palette.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Forms.Core.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Forms.Maps.Android.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Forms.Maps.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Forms.Pages.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Forms.Platform.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Forms.Theme.Android.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Forms.Theme.Base.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Forms.Theme.Dark.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Forms.Theme.Light.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.Forms.Xaml.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.GooglePlayServices.Base.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.GooglePlayServices.Basement.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Xamarin.GooglePlayServices.Maps.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\ZXing.Net.Mobile.Core.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\ZXing.Net.Mobile.Forms.Android.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\ZXing.Net.Mobile.Forms.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\zxing.portable.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\ZXingNetMobile.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Threading.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Collections.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Collections.Concurrent.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Reflection.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Diagnostics.Debug.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Linq.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Runtime.InteropServices.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Runtime.Extensions.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Reflection.Extensions.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Reflection.Primitives.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Runtime.Serialization.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.ServiceModel.Internals.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Resources.ResourceManager.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.ObjectModel.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.IO.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Runtime.Numerics.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Numerics.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Xml.XmlDocument.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Xml.XDocument.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Xml.Linq.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Globalization.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Threading.Tasks.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Runtime.Serialization.Primitives.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.ComponentModel.TypeConverter.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Dynamic.Runtime.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Linq.Expressions.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Runtime.Serialization.Formatters.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Text.RegularExpressions.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Xml.ReaderWriter.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Text.Encoding.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Text.Encoding.Extensions.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Threading.ThreadPool.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\Mono.Security.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.ComponentModel.Composition.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.ComponentModel.dll
+D:\Latest\ACTMobileApp2018\ACTMobileApp\Droid\obj\Release\android\assets\System.Diagnostics.Tools.dll

@@ -8,7 +8,7 @@ using ZXing.Net.Mobile.Forms;
 
 namespace Polcirkelleden
 {
-    public partial class Nature : TabbedPage
+    public partial class Nature 
     {
         //private int count = 0;
         private string baseURL = DependencyService.Get<IBaseUrl>().Get();
@@ -24,7 +24,12 @@ namespace Polcirkelleden
                 Black.Disappearing += Black_Disappearing;
                 Bear.Disappearing += Bear_Disappearing;
                 Freshwater.Disappearing += Freshwater_Disappearing;
-                   
+
+                //if(Device.RuntimePlatform==Device.iOS)
+                //{
+                    
+                //    DependencyService.Get<ITabbedPage>().TabRender(this);
+                //}
             }
             catch (Exception ex)
             {
@@ -33,7 +38,6 @@ namespace Polcirkelleden
             }
         }
 
-
         /// <summary>
         /// Set Language of specific controls on page
         /// </summary>
@@ -41,7 +45,7 @@ namespace Polcirkelleden
         {
             // Tabbed Page Title
             Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Animal_Header : AppResourceSweden.Animal_Header;
-
+            
             lblReindeerHeader.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleA : AppResourceSweden.Aminal_TitleA;
             lblTaigaHeader.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleB : AppResourceSweden.Aminal_TitleB;
             lblBirchPolyporeHeader.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleC : AppResourceSweden.Aminal_TitleC;
@@ -56,6 +60,7 @@ namespace Polcirkelleden
                 lblFreshwaterHeader.IsVisible = false;
                 lblSiberianHeader.IsVisible = false;
                 bearWebView.HeightRequest = 500;
+
                 Bear.Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleE : AppResourceSweden.Aminal_TitleE;
                 Freshwater.Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleF : AppResourceSweden.Aminal_TitleF;
                 Siberian.Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Aminal_TitleG : AppResourceSweden.Aminal_TitleG;
@@ -74,7 +79,7 @@ namespace Polcirkelleden
             Bear.Icon = "contacts.png";
             Freshwater.Icon = "contacts.png";
             Siberian.Icon = "contacts.png";
-
+            
             //baseURL = DependencyService.Get<IBaseUrl>().Get();
 
             // Reindeer Data
@@ -113,7 +118,7 @@ namespace Polcirkelleden
             lblTaiga.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Animal_Taiga : AppResourceSweden.Animal_Taiga;
             lblFreshWater.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Animal_FreshWater : AppResourceSweden.Animal_FreshWater;
             lblSiberian.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Animal_Siberian : AppResourceSweden.Animal_Siberian;
-
+           
            
         }
 

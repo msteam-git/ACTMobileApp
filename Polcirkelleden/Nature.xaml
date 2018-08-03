@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" 
+<TabbedPage  xmlns="http://xamarin.com/schemas/2014/forms" 
 			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
 			 x:Class="Polcirkelleden.Nature"
 			 Title="Nature" BackgroundColor="#406453" x:Name="tabbedPage" >
-    <TabbedPage.Children>
+  
+        
         <!--Contect Page 1-->
-    <ContentPage x:Name="Reindeer" BackgroundColor="#406453" >
+        <ContentPage x:Name="Reindeer" BackgroundColor="#406453" >
         <!--<ContentPage.ToolbarItems>
             <ToolbarItem Text="Skanna QR-kod" Icon="reminders.png" Order="Primary" x:Name="qrscan" />
         </ContentPage.ToolbarItems>-->
@@ -25,7 +26,7 @@
     </ContentPage>
 
     <!--Contect Page 2-->
-    <ContentPage x:Name="Taiga" BackgroundColor="#406453">
+        <ContentPage x:Name="Taiga" BackgroundColor="#406453" >
         <ContentPage.Content>
             <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
                 <StackLayout>
@@ -44,7 +45,7 @@
     </ContentPage>
 
     <!--Contect Page 3-->
-    <ContentPage x:Name="BirchPolypore" BackgroundColor="#406453">
+        <ContentPage x:Name="BirchPolypore" BackgroundColor="#406453" >
         <ContentPage.Content>
             <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
                 <StackLayout>
@@ -62,7 +63,7 @@
     </ContentPage>
 
     <!--Contect Page 4-->
-    <ContentPage x:Name="Black" BackgroundColor="#406453">
+        <ContentPage x:Name="Black" BackgroundColor="#406453" >
         <ContentPage.Content>
             <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
                 <StackLayout>
@@ -80,7 +81,7 @@
     </ContentPage>
 
     <!--Contect Page 5-->
-    <ContentPage x:Name="Bear" BackgroundColor="#406453">
+        <ContentPage x:Name="Bear" BackgroundColor="#406453" >
         <ContentPage.Content>
             <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
                 <StackLayout>
@@ -98,7 +99,7 @@
     </ContentPage>
 
     <!--Contect Page 6-->
-    <ContentPage x:Name="Freshwater" BackgroundColor="#406453">
+        <ContentPage x:Name="Freshwater" BackgroundColor="#406453" >
         <ContentPage.Content>
             <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
                 <StackLayout>
@@ -116,7 +117,7 @@
     </ContentPage>
 
     <!--Contect Page 7-->
-    <ContentPage x:Name="Siberian" BackgroundColor="#406453">
+    <ContentPage x:Name="Siberian" BackgroundColor="#406453" >
         <ContentPage.Content>
             <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
                 <StackLayout>
@@ -131,5 +132,5 @@
             </ScrollView>
         </ContentPage.Content>
     </ContentPage>
-        </TabbedPage.Children>
+      
 </TabbedPage>

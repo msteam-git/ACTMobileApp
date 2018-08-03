@@ -11,8 +11,7 @@
 namespace Polcirkelleden {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Latest\\Mac Copy_Deepak2 - Copy\\VisualStudio2017Mac.Polcirkelleden\\Polcirkelled" +
-        "en\\Welcome.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Latest\\ACTMobileApp2018\\ACTMobileApp\\Polcirkelleden\\Welcome.xaml")]
     public partial class Welcome : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
@@ -23,6 +22,9 @@ namespace Polcirkelleden {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Polcirkelleden.ClickImage map;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.WebView welcomeAudioWebView;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Label Welcome_QR;
@@ -36,6 +38,7 @@ namespace Polcirkelleden {
             Welcome_To = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "Welcome_To");
             Welcome_Info = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "Welcome_Info");
             map = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Polcirkelleden.ClickImage>(this, "map");
+            welcomeAudioWebView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.WebView>(this, "welcomeAudioWebView");
             Welcome_QR = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "Welcome_QR");
             Instructions = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "Instructions");
         }

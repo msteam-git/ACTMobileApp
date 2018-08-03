@@ -11,8 +11,7 @@
 namespace Polcirkelleden {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Latest\\Mac Copy_Deepak2 - Copy\\VisualStudio2017Mac.Polcirkelleden\\Polcirkelled" +
-        "en\\Nature.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Latest\\ACTMobileApp2018\\ACTMobileApp\\Polcirkelleden\\Nature.xaml")]
     public partial class Nature : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

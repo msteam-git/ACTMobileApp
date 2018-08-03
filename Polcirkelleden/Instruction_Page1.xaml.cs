@@ -29,7 +29,7 @@ namespace Polcirkelleden
                 NavigationPage.SetBackButtonTitle(this, "");
                 if (Application.Current.Properties["Language"].ToString() == "English")
                 {
-                    webView.HeightRequest = 1050;
+                    webView.HeightRequest = 1150;
                 }
                 else
                     webView.HeightRequest = 1200;
