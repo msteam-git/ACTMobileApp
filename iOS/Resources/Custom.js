@@ -4,8 +4,8 @@
         window.onload = function(){
             debugger;
             var bounds = [
-                [66.540630, 20.250825], // Southwest coordinates
-                [66.593494, 20.363395]  // Northeast coordinates
+                [66.5362608, 20.2477753], // Southwest coordinates
+                [66.5992895, 20.3598438]  // Northeast coordinates
             ];
 
             //var bounds = [
@@ -39,7 +39,7 @@
                  position:'bottomright'
             }).addTo(map);
 
-            var imageUrl = 'trailmapfinal.png',
+            var imageUrl = 'trailmapfinal.jpg',
                 imageBounds = bounds;
             L.imageOverlay(imageUrl, imageBounds).addTo(map);
 

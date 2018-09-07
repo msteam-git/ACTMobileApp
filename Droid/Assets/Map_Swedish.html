@@ -175,17 +175,17 @@
     window.onload = function () {
         var objMap = {};
         var bounds = [
-            [66.540630, 20.250825], // Southwest coordinates
-            [66.593494, 20.363395]  // Northeast coordinates
+            [66.5362608, 20.2477753], // Southwest coordinates
+            [66.5992895, 20.3598438]  // Northeast coordinates
         ];
 
         map = L.map('map', {
             attributionControl: false,
             zoomControl: false,
             maxZoom: 17,
-            minZoom: 14,
+            minZoom: 13,
             maxBounds: bounds,
-        }).setView([66.575735, 20.324749], 14);
+        }).setView([66.575735, 20.324749], 13);
 
 
         map.on('movestart', function () {
@@ -200,7 +200,7 @@
         //var imageUrl = 'trailmapfinal.png',
         //    imageBounds = bounds;
 
-        var imageUrl = 'trailmapfinalResized.png',
+        var imageUrl = 'trailmapfinal.jpg',
             imageBounds = bounds;
         L.imageOverlay(imageUrl, imageBounds).addTo(map);
 

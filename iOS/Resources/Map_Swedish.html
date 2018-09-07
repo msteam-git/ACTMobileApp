@@ -170,12 +170,12 @@
       var posmarker, map, updatetime, moved = 0; window.onload = function () {
           var objMap = {};
           var objMarker = {};
-          var bounds = [[66.540630, 20.250825], [66.593494, 20.363395]];
+          var bounds = [[66.5362608, 20.2477753], [66.5992895, 20.3598438]];
           map = L.map('map', { attributionControl: !1, zoomControl: !1, maxZoom: 21, minZoom: 13, maxBounds: bounds, }).setView([66.575735, 20.324749], 14);
           map.on('movestart', function () { moved = !0; document.getElementsByClassName("top")[0].style.display = 'none' });
           L.control.zoom({ position: 'bottomright' }).addTo(map);
           //var imageUrl = 'trailmapfinal.png', imageBounds = bounds;
-          var imageUrl = 'map with numbers.jpg', imageBounds = bounds;
+          var imageUrl = 'trailmapfinal.jpg', imageBounds = bounds;
           //var imageUrl = 'trailmapfinalResized.png', imageBounds = bounds;
           L.imageOverlay(imageUrl, imageBounds).addTo(map);
           objMap.firstIcon = L.icon({ iconUrl: 'Numbers/numbers1.png', iconSize: [24, 34], iconAnchor: [12, 35], popupAnchor: [-1, -20] });
