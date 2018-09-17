@@ -587,13 +587,16 @@
     <AndroidAsset Include="Assets\Welcome\ACT_Page_2_audio_SV.mp3" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\trailmapfinal.jpg" />
+    <AndroidAsset Include="Assets\_trailmapfinal.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\Numbers\numbers1.png" />
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\Numbers\numbers2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\trailmapfinal.jpg" />
   </ItemGroup>
   <Import Project="..\Polcirkelleden\Polcirkelleden.projitems" Label="Shared" Condition="Exists('..\Polcirkelleden\Polcirkelleden.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
