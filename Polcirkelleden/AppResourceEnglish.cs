@@ -24,7 +24,7 @@ namespace Polcirkelleden
         public const string Map_Header = "Map";
 
         //Animal & Nature
-        public const string Animal_Header = "Animal & Nature";
+        public const string Animal_Header = "The Nature Board";
         public const string Aminal_TitleA = "Reindeer";
         public const string Aminal_TitleB = "Taiga";
         public const string Aminal_TitleC = "Birch Polypore";

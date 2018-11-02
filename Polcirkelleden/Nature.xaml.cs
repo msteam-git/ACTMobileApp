@@ -72,13 +72,13 @@ namespace Polcirkelleden
                 lblSiberianHeader.IsVisible = true;
             }
 
-            Reindeer.Icon = "contacts.png";
-            Taiga.Icon = "contacts.png";
-            BirchPolypore.Icon = "contacts.png";
-            Black.Icon = "contacts.png";
-            Bear.Icon = "contacts.png";
-            Freshwater.Icon = "contacts.png";
-            Siberian.Icon = "contacts.png";
+            Reindeer.Icon = "reindeer.png";
+            Taiga.Icon = "forest.png";
+            BirchPolypore.Icon = "birch.png";
+            Black.Icon = "grouse.png";
+            Bear.Icon = "bear.png";
+            Freshwater.Icon = "clam.png";
+            Siberian.Icon = "bird.png";
             
             //baseURL = DependencyService.Get<IBaseUrl>().Get();
 

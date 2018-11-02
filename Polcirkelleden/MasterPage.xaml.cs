@@ -31,7 +31,7 @@ namespace Polcirkelleden
             {
                 //Title = "Välkommen",
                 Title = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Welcome_Header : AppResourceSweden.Welcome_Header,
-                IconSource = "contacts.png",
+                IconSource = "  contacts.png",
                 TargetType = typeof(Welcome)
             });
             masterPageItems.Add(new MasterPageItem

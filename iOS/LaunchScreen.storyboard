@@ -45,7 +45,7 @@
                                     <constraint id="9153" firstItem="9148" firstAttribute="height" constant="30"/>
                                 </constraints>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Arctic Circle Gateway" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="9163" translatesAutoresizingMaskIntoConstraints="NO">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Arctic Circle Trail" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="9163" translatesAutoresizingMaskIntoConstraints="NO">
                                 <rect key="frame" x="16" y="428" width="343" height="20"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" colorSpace="calibratedWhite" white="1" alpha="1"/>
@@ -131,6 +131,9 @@
         <image name="aboutus.png" width="128" height="128"/>
         <image name="act_page_2_image_1.png" width="960" height="479"/>
         <image name="contacts.png" width="128" height="128"/>
+        <image name="reindeer.png" width="128" height="128"/>
+        <image name="bear.png" width="128" height="128"/>
+        <image name="grouse.png" width="128" height="128"/>
         <image name="Icon-76.png" width="76" height="76"/>
         <image name="icon.png" width="120" height="120"/>
         <image name="map2.png" width="960" height="684"/>

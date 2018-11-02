@@ -11,7 +11,7 @@
         </Image>
         <Label Style="{StaticResource headerStyle}" Text="Polcirkelleden" VerticalOptions="Center" HorizontalOptions="Center" FontSize="50" TextColor="White">
         </Label>
-        <Label Text="Arctic Circle Gateway" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20" TextColor="White" />
+        <Label Text="Arctic Circle Trail" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20" TextColor="White" />
         <Label Text="Välj språk / Choose language" Margin="20" HorizontalOptions="Center" TextColor="White">
         </Label>
         <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
