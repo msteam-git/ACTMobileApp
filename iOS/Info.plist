@@ -48,15 +48,13 @@
 	<true/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
-	<key>XSAppIconAssets</key>
-	<string>Media.xcassets/AppIcons.appiconset</string>
 	<key>CFBundleName</key>
 	<string>Arctic Circle Trail</string>
-	<key>XSLaunchImageAssets</key>
-	<string>Media.xcassets/LaunchImages.launchimage</string>
 	<key>NSCalendarsUsageDescription</key>
 	<string>$(PRODUCT_NAME) Calender events</string>
 	<key>CFBundleVersion</key>
-	<string>1.5</string>
+	<string>1.6</string>
+	<key>XSAppIconAssets</key>
+	<string>Media.xcassets/AppIcons2.appiconset</string>
 </dict>
 </plist>

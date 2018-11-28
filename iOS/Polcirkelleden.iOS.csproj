@@ -43,7 +43,7 @@
     <OutputPath>bin\iPhone\Release</OutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <CodesignKey>iPhone Developer: Ishan Sharma (3V89B6AAXK)</CodesignKey>
+    <CodesignKey>iPhone Distribution</CodesignKey>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <MtouchLink>SdkOnly</MtouchLink>
     <MtouchArch>ARMv7, ARM64</MtouchArch>
@@ -51,7 +51,7 @@
     <PlatformTarget>x86</PlatformTarget>
     <BuildIpa>true</BuildIpa>
     <IpaIncludeArtwork>false</IpaIncludeArtwork>
-    <CodesignProvision>VS: com.amuze-interactive.Polcirkelleden Development</CodesignProvision>
+    <CodesignProvision>ACT Distribution Christer 181120</CodesignProvision>
     <MtouchDebug>false</MtouchDebug>
     <MtouchProfiling>false</MtouchProfiling>
     <MtouchNoSymbolStrip>false</MtouchNoSymbolStrip>
@@ -84,7 +84,7 @@
     <DefineConstants>DEBUG;ENABLE_TEST_CLOUD;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <CodesignKey>iPhone Developer: Ishan Sharma (3V89B6AAXK)</CodesignKey>
+    <CodesignKey>iPhone Developer</CodesignKey>
     <DeviceSpecificBuild>false</DeviceSpecificBuild>
     <MtouchDebug>true</MtouchDebug>
     <MtouchNoSymbolStrip>false</MtouchNoSymbolStrip>
@@ -96,7 +96,7 @@
     <MtouchArch>ARMv7, ARM64</MtouchArch>
     <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
     <PlatformTarget>x86</PlatformTarget>
-    <CodesignProvision>VS: com.amuze-interactive.Polcirkelleden Development</CodesignProvision>
+    <CodesignProvision>ACT Christer 181120</CodesignProvision>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
     <AppExtensionDebugBundleId />
@@ -440,46 +440,46 @@
     <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_D_image_1.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers1.png" />
+    <AndroidAsset Include="Resources\Numbers\___numbers1.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers10.png" />
+    <AndroidAsset Include="Resources\Numbers\_numbers10.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers11.png" />
+    <AndroidAsset Include="Resources\Numbers\_numbers11.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers12.png" />
+    <AndroidAsset Include="Resources\Numbers\_numbers12.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers13.png" />
+    <AndroidAsset Include="Resources\Numbers\_numbers13.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers14.png" />
+    <AndroidAsset Include="Resources\Numbers\_numbers14.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers2.png" />
+    <AndroidAsset Include="Resources\Numbers\_numbers2.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers3.png" />
+    <AndroidAsset Include="Resources\Numbers\_numbers3.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers4.png" />
+    <AndroidAsset Include="Resources\Numbers\_numbers4.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers5.png" />
+    <AndroidAsset Include="Resources\Numbers\_numbers5.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers6.png" />
+    <AndroidAsset Include="Resources\Numbers\_numbers6.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers7.png" />
+    <AndroidAsset Include="Resources\Numbers\_numbers7.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers8.png" />
+    <AndroidAsset Include="Resources\Numbers\_numbers8.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Numbers\numbers9.png" />
+    <AndroidAsset Include="Resources\Numbers\_numbers9.png" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_C_image_1.jpg" />
@@ -509,7 +509,7 @@
     <BundleResource Include="Resources\Map_Icons\symb-fornlamn.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Custom.js" />
+    <BundleResource Include="Resources\_Custom.js" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\ObjectPage_Images\ACT_Page_6_F_image_1.jpg" />
@@ -647,6 +647,69 @@
     <ImageAsset Include="Media.xcassets\AppIcons.appiconset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons.appiconset\icon-1024x1024-no-alpha.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons1.appiconset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\icon-1024x1024-no-alpha.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-120.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-1201.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-152.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-167.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-180.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-20x20@1x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-29x29@1x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-40x40@1x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-40x40@1x1.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-40x40@1x2.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-58.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-581.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-60x60@1x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-76@1x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-80.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-801.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-87.png">
+      <Visible>false</Visible>
+    </ImageAsset>
     <ImageAsset Include="Media.xcassets\LaunchImages.launchimage\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
@@ -700,7 +763,7 @@
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\trailmapfinal.jpg" />
+    <BundleResource Include="Resources\_trailmapfinal.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Welcome\Welcome_Eng.html" />
@@ -716,6 +779,117 @@
   </ItemGroup>
   <ItemGroup>
     <ITunesArtwork Include="iTunesArtwork%402x" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_F_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ObjectPage_Audio\ACT_Page_6_M_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_Page_8_A_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_Page_8_B_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_Page_8_C_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_Page_8_D_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_Page_8_E_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_Page_8_F_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_Page_8_G_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Audio\ACT_page_8_G_audio_EN.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\trailmapfinal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\_reindeernew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\forest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\birch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\grouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bearnew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\clam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bird.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\__numbers1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\__numbers2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\_numbers1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\__numbers3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Numbers\numbers14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\reindeernew.png" />
   </ItemGroup>
   <Import Project="..\Polcirkelleden\Polcirkelleden.projitems" Label="Shared" Condition="Exists('..\Polcirkelleden\Polcirkelleden.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />

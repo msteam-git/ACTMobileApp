@@ -72,11 +72,11 @@ namespace Polcirkelleden
                 lblSiberianHeader.IsVisible = true;
             }
 
-            Reindeer.Icon = "reindeer.png";
+            Reindeer.Icon = "reindeernew.png";
             Taiga.Icon = "forest.png";
             BirchPolypore.Icon = "birch.png";
             Black.Icon = "grouse.png";
-            Bear.Icon = "bear.png";
+            Bear.Icon = "bearnew.png";
             Freshwater.Icon = "clam.png";
             Siberian.Icon = "bird.png";
             

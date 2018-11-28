@@ -602,7 +602,7 @@
     <AndroidAsset Include="Assets\Numbers\numbers5.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\bear.png" />
+    <AndroidResource Include="Resources\drawable\bearnew.png" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\birch.png" />
@@ -617,10 +617,55 @@
     <AndroidResource Include="Resources\drawable\forest.png" />
   </ItemGroup>
   <ItemGroup>
+    <AndroidResource Include="Resources\drawable\_grouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\__reindeer.png">
+      <Generator>MSBuild:UpdateGeneratedFiles</Generator>
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\_reindeer.png">
+      <Generator>MSBuild:UpdateGeneratedFiles</Generator>
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\reindeernew.png" />
+  </ItemGroup>
+  <ItemGroup>
     <AndroidResource Include="Resources\drawable\grouse.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\reindeer.png" />
+    <AndroidAsset Include="Assets\ObjectPage_Audio\ACT_Page_6_M_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\ObjectPage_Audio\ACT_Page_6_F_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Audio\ACT_Page_8_A_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Audio\ACT_Page_8_B_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Audio\ACT_Page_8_C_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Audio\ACT_Page_8_D_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Audio\ACT_Page_8_E_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Audio\ACT_Page_8_F_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Audio\ACT_Page_8_G_audio_SV.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Audio\ACT_page_8_G_audio_EN.mp3" />
   </ItemGroup>
   <Import Project="..\Polcirkelleden\Polcirkelleden.projitems" Label="Shared" Condition="Exists('..\Polcirkelleden\Polcirkelleden.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

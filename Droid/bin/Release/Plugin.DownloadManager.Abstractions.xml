@@ -55,6 +55,12 @@
             </summary>
             <value>The URL.</value>
         </member>
+        <member name="P:Plugin.DownloadManager.Abstractions.IDownloadFile.DestinationPathName">
+            <summary>
+            Gets the destination path name of the file to download.
+            </summary>
+            <value>The destination path.</value>
+        </member>
         <member name="P:Plugin.DownloadManager.Abstractions.IDownloadFile.Headers">
             <summary>
             The headers that are send along when requesting the URL.

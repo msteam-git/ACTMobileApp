@@ -24,7 +24,7 @@ namespace Polcirkelleden
         public const string Map_Header = "Karta";
 
         //Animal & nature
-        public const string Animal_Header = "Djur & Natur";
+        public const string Animal_Header = "Naturtavlan";
         public const string Aminal_TitleA = "Ren";
         public const string Aminal_TitleB = "Taiga";
         public const string Aminal_TitleC = "Björkticka";

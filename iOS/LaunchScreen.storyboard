@@ -131,9 +131,13 @@
         <image name="aboutus.png" width="128" height="128"/>
         <image name="act_page_2_image_1.png" width="960" height="479"/>
         <image name="contacts.png" width="128" height="128"/>
-        <image name="reindeer.png" width="128" height="128"/>
-        <image name="bear.png" width="128" height="128"/>
+        <image name="reindeernew.png" width="128" height="128"/>
+        <image name="bearnew.png" width="128" height="128"/>
         <image name="grouse.png" width="128" height="128"/>
+        <image name="forest.png" width="128" height="128"/>
+        <image name="birch.png" width="128" height="128"/>
+        <image name="clam.png" width="128" height="128"/>
+        <image name="bird.png" width="128" height="128"/>
         <image name="Icon-76.png" width="76" height="76"/>
         <image name="icon.png" width="120" height="120"/>
         <image name="map2.png" width="960" height="684"/>
@@ -166,20 +170,20 @@
         <image name="Map_Icons/symb-rastplats.png" width="400" height="400"/>
         <image name="Map_Icons/Vattenplats-farg.png" width="400" height="400"/>
         <image name="ObjectPage_Images/ACT_Page_6_D_image_1.jpg" width="768" height="1024"/>
-        <image name="Numbers/numbers1.png" width="400" height="510"/>
-        <image name="Numbers/numbers10.png" width="400" height="510"/>
-        <image name="Numbers/numbers11.png" width="400" height="510"/>
-        <image name="Numbers/numbers12.png" width="400" height="510"/>
-        <image name="Numbers/numbers13.png" width="400" height="510"/>
-        <image name="Numbers/numbers14.png" width="400" height="510"/>
-        <image name="Numbers/numbers2.png" width="400" height="510"/>
-        <image name="Numbers/numbers3.png" width="400" height="510"/>
-        <image name="Numbers/numbers4.png" width="400" height="510"/>
-        <image name="Numbers/numbers5.png" width="400" height="510"/>
-        <image name="Numbers/numbers6.png" width="400" height="510"/>
-        <image name="Numbers/numbers7.png" width="400" height="510"/>
-        <image name="Numbers/numbers8.png" width="400" height="510"/>
-        <image name="Numbers/numbers9.png" width="400" height="510"/>
+        <image name="Numbers/numbers1.png" width="86" height="128"/>
+        <image name="Numbers/numbers10.png" width="86" height="128"/>
+        <image name="Numbers/numbers11.png" width="86" height="128"/>
+        <image name="Numbers/numbers12.png" width="86" height="128"/>
+        <image name="Numbers/numbers13.png" width="86" height="128"/>
+        <image name="Numbers/numbers14.png" width="86" height="128"/>
+        <image name="Numbers/numbers2.png" width="86" height="128"/>
+        <image name="Numbers/numbers3.png" width="86" height="128"/>
+        <image name="Numbers/numbers4.png" width="86" height="128"/>
+        <image name="Numbers/numbers5.png" width="86" height="128"/>
+        <image name="Numbers/numbers6.png" width="86" height="128"/>
+        <image name="Numbers/numbers7.png" width="86" height="128"/>
+        <image name="Numbers/numbers8.png" width="86" height="128"/>
+        <image name="Numbers/numbers9.png" width="86" height="128"/>
         <image name="ObjectPage_Images/ACT_Page_6_C_image_1.jpg" width="768" height="1024"/>
         <image name="ObjectPage_Images/ACT_Page_6_H_image_1.jpg" width="768" height="1024"/>
         <image name="ObjectPage_Images/ACT_Page_6_i_image_1.jpg" width="912" height="684"/>
@@ -195,7 +199,6 @@
         <image name="ObjectPage_Images/ACT_Page_6_image_N_1.jpg" width="862" height="816"/>
         <image name="ACT_Page_3_image.jpg" width="684" height="912"/>
         <image name="Map_Icons/symb-parkering1.png" width="94" height="94"/>
-        <image name="numbers1.png" width="400" height="510"/>
         <image name="hamburger.png" width="14" height="15"/>
         <image name="trailmapfinalResized.png" width="1000" height="1406"/>
         <image name="ICLapland combined.png" width="365" height="476"/>

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <SelectedDevice>android_7_0</SelectedDevice>
     <DefaultDevice>android_7_0</DefaultDevice>
-    <ProjectView>ShowAllFiles</ProjectView>
+    <ProjectView>ProjectFiles</ProjectView>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>
