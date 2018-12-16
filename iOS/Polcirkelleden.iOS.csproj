@@ -211,7 +211,9 @@
     <BundleResource Include="Resources\Cabin-SemiBold.ttf" />
     <BundleResource Include="Resources\Cabin-SemiBoldItalic.ttf" />
     <BundleResource Include="Resources\Contents.json" />
-    <InterfaceDefinition Include="LaunchScreen.storyboard" />
+    <InterfaceDefinition Include="LaunchScreen.storyboard">
+      <SubType>Designer</SubType>
+    </InterfaceDefinition>
     <BundleResource Include="Resources\Lobster-Regular.ttf" />
     <BundleResource Include="Resources\Icon-16.png" />
     <BundleResource Include="Resources\Icon-100.png" />
@@ -817,22 +819,22 @@
     <BundleResource Include="Resources\_reindeernew.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\forest.png" />
+    <BundleResource Include="Resources\_forest.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\birch.png" />
+    <BundleResource Include="Resources\_birch.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\grouse.png" />
+    <BundleResource Include="Resources\_grouse.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\bearnew.png" />
+    <BundleResource Include="Resources\_bearnew.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\clam.png" />
+    <BundleResource Include="Resources\_clam.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\bird.png" />
+    <BundleResource Include="Resources\_bird.png" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Numbers\__numbers1.png" />
@@ -887,6 +889,27 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Numbers\numbers14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\__reindeernew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bearnew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\birch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bird.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\clam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\forest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\grouse.png" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\reindeernew.png" />

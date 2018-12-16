@@ -131,13 +131,13 @@
         <image name="aboutus.png" width="128" height="128"/>
         <image name="act_page_2_image_1.png" width="960" height="479"/>
         <image name="contacts.png" width="128" height="128"/>
-        <image name="reindeernew.png" width="128" height="128"/>
-        <image name="bearnew.png" width="128" height="128"/>
-        <image name="grouse.png" width="128" height="128"/>
-        <image name="forest.png" width="128" height="128"/>
-        <image name="birch.png" width="128" height="128"/>
-        <image name="clam.png" width="128" height="128"/>
-        <image name="bird.png" width="128" height="128"/>
+        <image name="reindeernew.png" width="40" height="40"/>
+        <image name="bearnew.png" width="40" height="40"/>
+        <image name="grouse.png" width="40" height="40"/>
+        <image name="forest.png" width="40" height="40"/>
+        <image name="birch.png" width="40" height="40"/>
+        <image name="clam.png" width="40" height="40"/>
+        <image name="bird.png" width="40" height="40"/>
         <image name="Icon-76.png" width="76" height="76"/>
         <image name="icon.png" width="120" height="120"/>
         <image name="map2.png" width="960" height="684"/>
