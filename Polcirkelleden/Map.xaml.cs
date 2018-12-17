@@ -64,7 +64,7 @@ namespace Polcirkelleden
             try
             {
                 var locator = CrossGeolocator.Current;
-                locator.DesiredAccuracy = 50;
+                locator.DesiredAccuracy = 5;
                 var position = await locator.GetPositionAsync(TimeSpan.FromSeconds(10));
                 Device.BeginInvokeOnMainThread(() =>
                 {

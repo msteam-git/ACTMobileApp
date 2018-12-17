@@ -14,7 +14,7 @@
             <ScrollView BackgroundColor="#406453">
                <!--<StackLayout>-->
                 <StackLayout Padding="0" Orientation="Vertical">
-                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblReindeerHeader" Text="Reindeer" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblReindeerHeader" Text="Reindeer" HorizontalTextAlignment="Center" TextColor="White"/>
                         <Image HorizontalOptions="FillAndExpand" VerticalOptions="Start" Aspect="AspectFill"  Source="Reindeer.jpg" HeightRequest="250"></Image>
                     <StackLayout Orientation="Vertical">                        
                         <WebView x:Name="reindeerWebView" WidthRequest="600" HeightRequest="600" />
@@ -31,7 +31,7 @@
             <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
                 <StackLayout>
                     <StackLayout Padding="0">
-                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblTaigaHeader" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblTaigaHeader" HorizontalTextAlignment="Center" TextColor="White"/>
                         <Image HorizontalOptions="FillAndExpand" VerticalOptions="Start" Aspect="AspectFill"  HeightRequest="250" Source="Taiga.jpg"></Image>
                     </StackLayout>
                     <!--<Button Text="{Binding CommandText}"  Command="{Binding PlayPauseCommand}" x:Name="TaigaPlay" CommandParameter="2"/>-->
@@ -50,7 +50,7 @@
             <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
                 <StackLayout>
                     <StackLayout Padding="0">
-                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblBirchPolyporeHeader" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblBirchPolyporeHeader" HorizontalTextAlignment="Center" TextColor="White"/>
                         <Image Source="BirchPolypore.jpg" HorizontalOptions="FillAndExpand" VerticalOptions="Start" Aspect="AspectFill" HeightRequest="250"></Image>
                     </StackLayout>
                     <!--<Button Text="{Binding CommandText}"  Command="{Binding PlayPauseCommand}" x:Name="BirchPlay" CommandParameter="3"/>-->
@@ -68,7 +68,7 @@
             <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
                 <StackLayout>
                     <StackLayout Padding="0">
-                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblBlackHeader" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblBlackHeader" HorizontalTextAlignment="Center" TextColor="White"/>
                         <Image Source="BlackGrouse.jpg" HorizontalOptions="FillAndExpand" VerticalOptions="Start" HeightRequest="250" Aspect="AspectFill"></Image>
                     </StackLayout>
                     <!--<Button Text="{Binding CommandText}"  Command="{Binding PlayPauseCommand}" x:Name="GrousePlay" CommandParameter="4"/>-->
@@ -86,7 +86,7 @@
             <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
                 <StackLayout>
                     <StackLayout Padding="0">
-                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblBearHeader" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblBearHeader" HorizontalTextAlignment="Center" TextColor="White"/>
                         <Image Source="Bear.jpg" HorizontalOptions="FillAndExpand" VerticalOptions="Start" HeightRequest="250" Aspect="AspectFill"></Image>
                     </StackLayout>
                     <!--<Button Text="{Binding CommandText}"  Command="{Binding PlayPauseCommand}" x:Name="BearPlay" CommandParameter="5"/>-->
@@ -104,7 +104,7 @@
             <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
                 <StackLayout>
                     <StackLayout Padding="0">
-                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblFreshwaterHeader" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblFreshwaterHeader" HorizontalTextAlignment="Center" TextColor="White"/>
                         <Image Source="Freshwater.JPG" HorizontalOptions="FillAndExpand" VerticalOptions="Start" HeightRequest="250" Aspect="AspectFill" ></Image>
                     </StackLayout>
                     <StackLayout>
@@ -122,7 +122,7 @@
             <ScrollView  BackgroundColor="#406453" Orientation="Vertical" VerticalOptions="StartAndExpand">
                 <StackLayout>
                     <StackLayout Padding="0">
-                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblSiberianHeader" HorizontalTextAlignment="Center" TextColor="DodgerBlue"/>
+                        <Label HorizontalOptions="FillAndExpand" VerticalOptions="Start" x:Name="lblSiberianHeader" HorizontalTextAlignment="Center" TextColor="White"/>
                         <Image Source="Siberian.jpg" HorizontalOptions="FillAndExpand" VerticalOptions="Start" HeightRequest="250" Aspect="AspectFill" ></Image>
                     </StackLayout>
                     <StackLayout>

@@ -53,7 +53,7 @@
 	<key>NSCalendarsUsageDescription</key>
 	<string>$(PRODUCT_NAME) Calender events</string>
 	<key>CFBundleVersion</key>
-	<string>1.6</string>
+	<string>1.7</string>
 	<key>XSAppIconAssets</key>
 	<string>Media.xcassets/AppIcons2.appiconset</string>
 </dict>
