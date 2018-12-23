@@ -247,7 +247,6 @@
     <BundleResource Include="Resources\Icon-60%402x.png" />
     <BundleResource Include="Resources\Icon-App-60x60%402x.png" />
     <BundleResource Include="Resources\icon-1024x1024.png" />
-    <BundleResource Include="Resources\map with numbers.jpg" />
     <BundleResource Include="Resources\mapresized.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -280,9 +279,6 @@
     <BundleResource Include="Resources\Map.html" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\map.png" />
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\map2.png" />
   </ItemGroup>
   <ItemGroup>
@@ -308,9 +304,6 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\todoimage.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\trailmapfinal.png" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Html_Instructions\Instruction_Eng1.html" />
@@ -763,9 +756,6 @@
     <ImageAsset Include="Media.xcassets\AppIcons.appiconset\icon-1024x1024.png">
       <Visible>false</Visible>
     </ImageAsset>
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\_trailmapfinal.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Welcome\Welcome_Eng.html" />
