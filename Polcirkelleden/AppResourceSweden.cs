@@ -16,7 +16,7 @@ namespace Polcirkelleden
             "Öppna kartan när du är redo att börja utforska Polcirkelleden.";
         //public const string Welcome_QR = "Och glöm inte att scanna QR-koderna du hittar utefter leden. De kan se ut t.ex. så här:";
         public const string Welcome_QR = "Och glöm inte att klicka på siffrorna som du hittar längs linjen. De kan se ut så här:";
-        public const string Welcome_Instruction = "Instruktioner";
+        public const string Welcome_Instruction = "Information";
         public const string NextPage = "Nästa >>";
         public const string GotIt = "Start";
         
@@ -37,7 +37,7 @@ namespace Polcirkelleden
         public const string Animal_FreshWater = "är ett riktigt urtidsdjur, den levde redan på dinosaurens tid för 200 miljoner år sedan. Den äldsta flodpärlmusslan som hittats i Jokkmokksområdet var 280 år. Musslan är fridlyst och får bara skådas med största respekt från vattenytan.";
         public const string Animal_Siberian = "En `lav story´ eller olycksfågel? När du stannar för att rasta är det inte ovanligt att lavskrika hälsar på. Den vill gärna smaka på din medhavda matsäck. Förr sades det att lavskrikan var en olycksfågel. Lavskrikans latinska namn är Garrulus infaustus, som kan översättas med den olycksbringande pratmakaren.";
         //About us
-        public const string About_Header = "Instruktioner";
+        public const string About_Header = "Information";
 
         
     }

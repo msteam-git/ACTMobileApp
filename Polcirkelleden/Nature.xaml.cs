@@ -24,10 +24,11 @@ namespace Polcirkelleden
                 Black.Disappearing += Black_Disappearing;
                 Bear.Disappearing += Bear_Disappearing;
                 Freshwater.Disappearing += Freshwater_Disappearing;
+                Siberian.Disappearing += Siberian_Disappearing;
 
                 //if(Device.RuntimePlatform==Device.iOS)
                 //{
-                    
+
                 //    DependencyService.Get<ITabbedPage>().TabRender(this);
                 //}
             }
@@ -114,6 +115,12 @@ namespace Polcirkelleden
             taigaWebView.Source = source5;
             //taigaWebView.IsEnabled = false;
 
+            //Siberian Jay Audio
+            var source6 = new UrlWebViewSource();
+            source6.Url = Application.Current.Properties["Language"].ToString() == "English" ? System.IO.Path.Combine(baseURL, "Nature_Html/Siberian_Eng.html") : System.IO.Path.Combine(baseURL, "Nature_Html/Siberian_SV.html");
+            siberianWebView.Source = source6;
+            //siberianWebView.IsEnabled = false;
+
             // Contect Pages Label text
             lblTaiga.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Animal_Taiga : AppResourceSweden.Animal_Taiga;
             lblFreshWater.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Animal_FreshWater : AppResourceSweden.Animal_FreshWater;
@@ -135,6 +142,7 @@ namespace Polcirkelleden
             birchWebView.Eval("stopAudio()");
             freshWaterWebView.Eval("stopAudio()");
             bearWebView.Eval("stopAudio()");
+            siberianWebView.Eval("stopAudio()");
             return base.OnBackButtonPressed();
         }
 
@@ -144,6 +152,12 @@ namespace Polcirkelleden
         {
             WebView view = this.FindByName<WebView>("reindeerWebView");
             view.Eval("stopAudio()");
+        }
+
+        private async void Siberian_Disappearing(object sender, EventArgs e)
+        {
+            WebView view6 = this.FindByName<WebView>("siberianWebView");
+            view6.Eval("stopAudio()");
         }
 
         private async void Freshwater_Disappearing(object sender, EventArgs e)

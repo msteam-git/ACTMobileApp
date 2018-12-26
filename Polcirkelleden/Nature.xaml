@@ -126,6 +126,7 @@
                         <Image Source="Siberian.jpg" HorizontalOptions="FillAndExpand" VerticalOptions="Start" HeightRequest="250" Aspect="AspectFill" ></Image>
                     </StackLayout>
                     <StackLayout>
+                            <WebView x:Name="siberianWebView" WidthRequest="100" HeightRequest="50" Margin="30,05"/>
                             <Label x:Name="lblSiberian" Style="{DynamicResource labelStyle}" TextColor="White" Margin="30,20" HeightRequest="200" LineBreakMode="WordWrap"></Label>
                     </StackLayout>
                 </StackLayout>

@@ -16,7 +16,7 @@ namespace Polcirkelleden
             "Open the map when you're ready to start exploring Polcirkelleden.";
         //public const string Welcome_QR = "And do not forget to scan the QR codes you find along the line. They may look like like this:";
         public const string Welcome_QR = "And do not forget to click on the number icons you find along the line. They may look like like this:";
-        public const string Welcome_Instruction = "Instructions";
+        public const string Welcome_Instruction = "Information";
         public const string NextPage = "Next >>";
         public const string GotIt = "Start";
         
@@ -42,7 +42,7 @@ namespace Polcirkelleden
             "It's Latin name indicate the bird likes to talk and you may very well here it's non-stop 'chatting' during your hike.";
 
         //About us
-        public const string About_Header = "Instructions";
+        public const string About_Header = "Information";
 
 
     }
