@@ -592,7 +592,7 @@
     <AndroidResource Include="Resources\drawable\bearnew.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\birch.png" />
+    <AndroidResource Include="Resources\drawable\_birch.png" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\bird.png" />
@@ -659,6 +659,9 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\Nature_Html\Siberian_SV.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\birch.png" />
   </ItemGroup>
   <Import Project="..\Polcirkelleden\Polcirkelleden.projitems" Label="Shared" Condition="Exists('..\Polcirkelleden\Polcirkelleden.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
