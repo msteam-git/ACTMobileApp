@@ -215,7 +215,7 @@
                 maxHeight: "150", maxWidth:"200"
             });
             
-            L.marker([66.576778, 20.346917], { icon: secondIcon }).addTo(map).bindPopup("<b>Gåsmyrtjärnarna (Geese mire ponds)</b><br/><img src='ObjectPage_Images/ACT_Page_6_B_image_1.jpg' class='popupImage' /><br/><audio controls class='popupAudio'  src='ObjectPage_Audio/ACT_Page_6_B_audio_EN.mp3'></audio><br/>A short distance away you will see Gåsmyrtjärnarna. The name is said to come from the fact that many geese stop here during their migrations.<br/>Here on the marshes are also several deep cold water springs.", {
+            L.marker([66.576778, 20.346917], { icon: secondIcon }).addTo(map).bindPopup("<b>Gåsmyrtjärnarna (Geese mire ponds)</b><br/><img src='ObjectPage_Images/ACT_Page_6_B_image_1.jpg' class='popupImage' /><br/><audio controls class='popupAudio'  src='ObjectPage_Audio/ACT_Page_6_B_audio_EN.mp3'></audio><br/>A short distance away you will see Gåsmyrtjärnarna. The name is said to come from the fact that many geese stop here during their migrations.<br/>Here on the marshes are also several deep cold-water springs.", {
                 maxHeight: "150", maxWidth: "200"
             });
 
