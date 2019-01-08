@@ -905,13 +905,13 @@
     <BundleResource Include="Resources\reindeernew.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\map.png" />
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\Nature_Html\Siberian_Eng.html" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Nature_Html\Siberian_SV.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\map.png" />
   </ItemGroup>
   <Import Project="..\Polcirkelleden\Polcirkelleden.projitems" Label="Shared" Condition="Exists('..\Polcirkelleden\Polcirkelleden.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
