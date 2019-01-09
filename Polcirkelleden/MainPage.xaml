@@ -4,7 +4,7 @@
     xmlns:local="clr-namespace:Polcirkelleden" 
     x:Class="Polcirkelleden.MainPage">
     <MasterDetailPage.Master>
-        <local:MasterPage x:Name="masterPage" BackgroundImage="map.png" />
+        <local:MasterPage x:Name="masterPage" BackgroundImage="map_half_size.png" />
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
         <NavigationPage>

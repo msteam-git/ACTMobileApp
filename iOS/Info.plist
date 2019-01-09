@@ -37,6 +37,7 @@
 	<string>Arctic Trail Map</string>
 	<key>UIStatusBarStyle</key>
 	<string>UIStatusBarStyleLightContent</string>
+	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>
 			<key>CFBundleTypeName</key>
@@ -52,7 +53,7 @@
 	<key>NSCalendarsUsageDescription</key>
 	<string>$(PRODUCT_NAME) Calender events</string>
 	<key>CFBundleVersion</key>
-	<string>1.7</string>
+	<string>1.75</string>
 	<key>XSAppIconAssets</key>
 	<string>Media.xcassets/AppIcons2.appiconset</string>
 </dict>
