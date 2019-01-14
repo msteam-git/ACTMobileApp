@@ -644,16 +644,10 @@
     <ImageAsset Include="Media.xcassets\AppIcons.appiconset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons.appiconset\icon-1024x1024-no-alpha.png">
-      <Visible>false</Visible>
-    </ImageAsset>
     <ImageAsset Include="Media.xcassets\AppIcons1.appiconset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Contents.json">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\icon-1024x1024-no-alpha.png">
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-120.png">
@@ -756,12 +750,6 @@
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Media.xcassets\AppIcons.appiconset\icon-1024x1024.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Media.xcassets\LaunchImages.launchimage\launch_image_iphone_2x.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Media.xcassets\LaunchImages.launchimage\launch_image_iphone_retina_4.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
@@ -925,13 +913,19 @@
     <BundleResource Include="Resources\___birch.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\birch.png" />
+    <BundleResource Include="Resources\____birch.png" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\map_small.png" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\map_half_size.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\directions.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\birch.png" />
   </ItemGroup>
   <Import Project="..\Polcirkelleden\Polcirkelleden.projitems" Label="Shared" Condition="Exists('..\Polcirkelleden\Polcirkelleden.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />

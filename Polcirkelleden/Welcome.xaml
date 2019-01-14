@@ -35,7 +35,7 @@ Njut av naturen och stillheten!
                             Och glöm inte att scanna QR-koderna du hittar utefter leden. De kan se ut t.ex. så här:
                         </Label.Text>
                     </Label>
-                    <Image HorizontalOptions="Center" WidthRequest="120" VerticalOptions="Start" Aspect="AspectFit" 
+                    <Image HorizontalOptions="Center" WidthRequest="80" VerticalOptions="Start" Aspect="AspectFit" 
                         Source="numbers1.png">
                     </Image>
                     <!--<Image x:Name="nunberImage" HorizontalOptions="Center" WidthRequest="120" VerticalOptions="Start" Aspect="AspectFit" Source="numbers1.png"></Image>-->
