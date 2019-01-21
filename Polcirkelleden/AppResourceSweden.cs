@@ -34,8 +34,8 @@ namespace Polcirkelleden
         public const string Aminal_TitleG = "Lavskrikan";
 
         public const string Animal_Taiga = "Skogen som omger dig under vandringen är riktig boreal skog, även kallad Taiga. Det är en nordlig skog som domineras av gran och furu med lite björk och sällan några andra träd. Bottenskiktet nära myrar består av blåbär, lingon, vild rosmarin (skvattram) och dvärgbjörk.";
-        public const string Animal_FreshWater = "- åtråvärd `skatt´ från urtiden." + "<br>" + "Är ett riktigt urtidsdjur, den levde redan på dinosaurens tid för 200 miljoner år sedan. Den äldsta flodpärlmusslan som hittats i Jokkmokksområdet var 280 år. Musslan är fridlyst och får bara skådas med största respekt från vattenytan.";
-        public const string Animal_Siberian = "- din nyfikna skogskompis." + "<br>" + "En `lav story´ eller olycksfågel? När du stannar för att rasta är det inte ovanligt att lavskrika hälsar på. Den vill gärna smaka på din medhavda matsäck. Förr sades det att lavskrikan var en olycksfågel. Lavskrikans latinska namn är Garrulus infaustus, som kan översättas med den olycksbringande pratmakaren.";
+        public const string Animal_FreshWater = "- åtråvärd `skatt´ från urtiden." + "\r\n" + "Är ett riktigt urtidsdjur, den levde redan på dinosaurens tid för 200 miljoner år sedan. Den äldsta flodpärlmusslan som hittats i Jokkmokksområdet var 280 år. Musslan är fridlyst och får bara skådas med största respekt från vattenytan.";
+        public const string Animal_Siberian = "- din nyfikna skogskompis." + "\r\n" + "En `lav story´ eller olycksfågel? När du stannar för att rasta är det inte ovanligt att lavskrika hälsar på. Den vill gärna smaka på din medhavda matsäck. Förr sades det att lavskrikan var en olycksfågel. Lavskrikans latinska namn är Garrulus infaustus, som kan översättas med den olycksbringande pratmakaren.";
         //About us
         public const string About_Header = "Information";
 
