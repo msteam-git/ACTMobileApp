@@ -230,7 +230,7 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\icon.png" />
     <AndroidResource Include="Resources\drawable\contacts.png" />
     <AndroidResource Include="Resources\drawable\reminders.png" />
-    <AndroidResource Include="Resources\drawable\todo.png" />
+    <AndroidResource Include="Resources\drawable\_todo.png" />
     <AndroidResource Include="Resources\drawable\icon.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </AndroidResource>
@@ -671,6 +671,15 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\birch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-nodpi\map_half_size.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\directions.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\numbericon.png" />
   </ItemGroup>
   <Import Project="..\Polcirkelleden\Polcirkelleden.projitems" Label="Shared" Condition="Exists('..\Polcirkelleden\Polcirkelleden.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
