@@ -37,6 +37,10 @@
     <AndroidUseSharedRuntime>true</AndroidUseSharedRuntime>
     <EmbedAssembliesIntoApk>false</EmbedAssembliesIntoApk>
     <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
+    <AotAssemblies>false</AotAssemblies>
+    <EnableLLVM>false</EnableLLVM>
+    <BundleAssemblies>false</BundleAssemblies>
+    <AndroidLinkMode>SdkOnly</AndroidLinkMode>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -50,6 +54,11 @@
     <AndroidSupportedAbis />
     <JavaMaximumHeapSize>
     </JavaMaximumHeapSize>
+    <AotAssemblies>false</AotAssemblies>
+    <EnableLLVM>false</EnableLLVM>
+    <BundleAssemblies>false</BundleAssemblies>
+    <AndroidLinkMode>SdkOnly</AndroidLinkMode>
+    <EnableProguard>false</EnableProguard>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="FormsViewGroup, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -230,7 +239,7 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\icon.png" />
     <AndroidResource Include="Resources\drawable\contacts.png" />
     <AndroidResource Include="Resources\drawable\reminders.png" />
-    <AndroidResource Include="Resources\drawable\_todo.png" />
+    <AndroidResource Include="Resources\drawable\todo.png" />
     <AndroidResource Include="Resources\drawable\icon.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </AndroidResource>
@@ -529,9 +538,6 @@
     <AndroidAsset Include="Assets\Nature_Html\Taiga_SV.html" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\trailmapfinalResized.png" />
-  </ItemGroup>
-  <ItemGroup>
     <AndroidAsset Include="Assets\sparbankennord-300 logga.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -680,6 +686,9 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\numbericon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\trailmapfinal.png" />
   </ItemGroup>
   <Import Project="..\Polcirkelleden\Polcirkelleden.projitems" Label="Shared" Condition="Exists('..\Polcirkelleden\Polcirkelleden.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

@@ -626,9 +626,6 @@
     <BundleResource Include="Resources\Nature_Html\Taiga_SV.html" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\trailmapfinalResized.png" />
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\ICLapland combined.png" />
   </ItemGroup>
   <ItemGroup>
@@ -926,6 +923,9 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\birch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\trailmapfinal.png" />
   </ItemGroup>
   <Import Project="..\Polcirkelleden\Polcirkelleden.projitems" Label="Shared" Condition="Exists('..\Polcirkelleden\Polcirkelleden.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />

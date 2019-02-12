@@ -39,7 +39,7 @@
                  position:'bottomright'
             }).addTo(map);
 
-            var imageUrl = 'trailmapfinal.jpg',
+            var imageUrl = 'trailmapfinal.png',
                 imageBounds = bounds;
             L.imageOverlay(imageUrl, imageBounds).addTo(map);
 

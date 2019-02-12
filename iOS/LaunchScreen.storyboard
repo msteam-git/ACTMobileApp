@@ -148,8 +148,7 @@
         <image name="testmap.png" width="494" height="301"/>
         <image name="todo.png" width="128" height="128"/>
         <image name="todoimage.png" width="64" height="52"/>
-        <image name="trailmapfinal.png" width="7540" height="10603"/>
-        <image name="trailmapfinal.jpg" width="4750" height="6717"/>
+        <image name="trailmapfinal.png" width="4750" height="6717"/>
         <image name="Map_Icons/symb-parkering.png" width="400" height="400"/>
         <image name="ObjectPage_Images/Start.jpg" width="512" height="384"/>
         <image name="English.jpg" width="582" height="340"/>
@@ -200,7 +199,6 @@
         <image name="ACT_Page_3_image.jpg" width="684" height="912"/>
         <image name="Map_Icons/symb-parkering1.png" width="94" height="94"/>
         <image name="hamburger.png" width="14" height="15"/>
-        <image name="trailmapfinalResized.png" width="1000" height="1406"/>
         <image name="ICLapland combined.png" width="365" height="476"/>
         <image name="Lansstyrelsen logo with white.png" width="441" height="631"/>
         <image name="sparbankennord-300 logga.jpg" width="300" height="134"/>
