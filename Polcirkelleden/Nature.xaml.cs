@@ -122,9 +122,9 @@ namespace Polcirkelleden
             //siberianWebView.IsEnabled = false;
 
             // Contect Pages Label text
-            lblTaiga.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Animal_Taiga : AppResourceSweden.Animal_Taiga;
-            lblFreshWater.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Animal_FreshWater : AppResourceSweden.Animal_FreshWater;
-            lblSiberian.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Animal_Siberian : AppResourceSweden.Animal_Siberian;
+            //lblTaiga.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Animal_Taiga : AppResourceSweden.Animal_Taiga;
+            //lblFreshWater.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Animal_FreshWater : AppResourceSweden.Animal_FreshWater;
+            //lblSiberian.Text = Application.Current.Properties["Language"].ToString() == "English" ? AppResourceEnglish.Animal_Siberian : AppResourceSweden.Animal_Siberian;
            
            
         }

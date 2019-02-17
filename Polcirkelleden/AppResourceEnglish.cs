@@ -33,15 +33,15 @@ namespace Polcirkelleden
         public const string Aminal_TitleF = "Freshwater pearl mussel";
         public const string Aminal_TitleG = "Siberian Jay";
 
-        public const string Animal_Taiga = "The forest that surrounds you on this trail is true Boreal forest, also called Taiga. It is a northern forest, dominated by spruce & pine, with a little birch and, rarely, some other trees. The under growth is formed with blueberries, lingonberries, wild rosemary and dwarf birch (near mires)." +
-            "\r\n" +
-            "\r\n";
-        public const string Animal_FreshWater = "- A treasure from primeval times. " +
-            "\r\n" +
-            "The mussel is a true prehistoric animal, it was already alive during the time of the dinosaurs some 200 million years ago.The oldest freshwater pearl mussel found in Jokkmokk area was 280 years old.The mussel is protected and may only be viewed, with utmost respect, from the water´s surface.";
-        public const string Animal_Siberian = "When you stop to rest, it is not uncommon for Siberian Jay to come and greet you. They are known to be a very inquisitive and fearless species and would just looove to taste your picnic, with or without permission! " +
-            "\r\n" +
-            "Its Latin name indicate the bird likes to talk and you may very well here it's non-stop 'chatting' during your hike.";
+        //public const string Animal_Taiga = "The forest that surrounds you on this trail is true Boreal forest, also called Taiga. It is a northern forest, dominated by spruce & pine, with a little birch and, rarely, some other trees. The under growth is formed with blueberries, lingonberries, wild rosemary and dwarf birch (near mires)." +
+        //    "\r\n" +
+        //    "\r\n";
+        //public const string Animal_FreshWater = "- A treasure from primeval times. " +
+        //    "\r\n" +
+        //    "The mussel is a true prehistoric animal, it was already alive during the time of the dinosaurs some 200 million years ago.The oldest freshwater pearl mussel found in Jokkmokk area was 280 years old.The mussel is protected and may only be viewed, with utmost respect, from the water´s surface.";
+        //public const string Animal_Siberian = "When you stop to rest, it is not uncommon for Siberian Jay to come and greet you. They are known to be a very inquisitive and fearless species and would just looove to taste your picnic, with or without permission! " +
+        //    "\r\n" +
+        //    "Its Latin name indicate the bird likes to talk and you may very well here it's non-stop 'chatting' during your hike.";
 
         //About us
         public const string About_Header = "Information";

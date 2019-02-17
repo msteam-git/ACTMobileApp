@@ -36,8 +36,8 @@
                     </StackLayout>
                     <!--<Button Text="{Binding CommandText}"  Command="{Binding PlayPauseCommand}" x:Name="TaigaPlay" CommandParameter="2"/>-->
                     <StackLayout>
-                        <WebView x:Name="taigaWebView" WidthRequest="100" HeightRequest="50" Margin="30,05"/>
-                        <Label x:Name="lblTaiga" Style="{DynamicResource labelStyle}" TextColor="White" Margin="30,05" LineBreakMode="WordWrap"></Label>
+                        <WebView x:Name="taigaWebView" WidthRequest="600" HeightRequest="250" />
+                      <!--<Label x:Name="lblTaiga" Style="{DynamicResource labelStyle}" TextColor="White" Margin="30,05" LineBreakMode="WordWrap"></Label>-->
                     </StackLayout>
                 </StackLayout>
             </ScrollView>
@@ -73,7 +73,7 @@
                     </StackLayout>
                     <!--<Button Text="{Binding CommandText}"  Command="{Binding PlayPauseCommand}" x:Name="GrousePlay" CommandParameter="4"/>-->
                     <StackLayout>
-                        <WebView x:Name="blackWebView" WidthRequest="600" HeightRequest="600" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+                        <WebView x:Name="blackWebView" WidthRequest="600" HeightRequest="550" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
                     </StackLayout>
                 </StackLayout>
             </ScrollView>
@@ -108,8 +108,8 @@
                         <Image Source="Freshwater.JPG" HorizontalOptions="FillAndExpand" VerticalOptions="Start" HeightRequest="250" Aspect="AspectFill" ></Image>
                     </StackLayout>
                     <StackLayout>
-                        <WebView x:Name="freshWaterWebView" WidthRequest="100" HeightRequest="50" Margin="30,05"/>
-                        <Label x:Name="lblFreshWater" Style="{DynamicResource labelStyle}" TextColor="White" Margin="30,05" HeightRequest="200" LineBreakMode="WordWrap"></Label>
+                        <WebView x:Name="freshWaterWebView" WidthRequest="600" HeightRequest="250" />
+                        <!--<Label x:Name="lblFreshWater" Style="{DynamicResource labelStyle}" TextColor="White" Margin="30,05" HeightRequest="200" LineBreakMode="WordWrap"></Label>-->
                     </StackLayout>
                 </StackLayout>
             </ScrollView>
@@ -126,8 +126,8 @@
                         <Image Source="Siberian.jpg" HorizontalOptions="FillAndExpand" VerticalOptions="Start" HeightRequest="250" Aspect="AspectFill" ></Image>
                     </StackLayout>
                     <StackLayout>
-                            <WebView x:Name="siberianWebView" WidthRequest="100" HeightRequest="50" Margin="30,05"/>
-                            <Label x:Name="lblSiberian" Style="{DynamicResource labelStyle}" TextColor="White" Margin="30,20" HeightRequest="200" LineBreakMode="WordWrap"></Label>
+                            <WebView x:Name="siberianWebView" WidthRequest="600" HeightRequest="250" />
+                            <!--<Label x:Name="lblSiberian" Style="{DynamicResource labelStyle}" TextColor="White" Margin="30,20" HeightRequest="200" LineBreakMode="WordWrap"></Label>-->
                     </StackLayout>
                 </StackLayout>
             </ScrollView>

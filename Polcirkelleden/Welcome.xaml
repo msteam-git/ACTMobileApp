@@ -28,7 +28,7 @@ Njut av naturen och stillheten!
                         </control:ClickImage>
                     </Frame>
                     <StackLayout>
-                    <WebView x:Name="welcomeAudioWebView" WidthRequest="600" HeightRequest="50" Margin="0" />
+                    <WebView x:Name="welcomeAudioWebView" WidthRequest="500" HeightRequest="66" Margin="0" />
                     </StackLayout>
                     <Label Style="{DynamicResource labelStyle}" TextColor="White" Margin="0,15" LineBreakMode="WordWrap" x:Name="Welcome_QR">
                         <Label.Text>
