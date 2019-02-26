@@ -225,6 +225,7 @@
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
     <Compile Include="CustomClasses.cs" />
+    <Compile Include="moreNavigationBar\topItem.cs" />
     <Compile Include="TabbedPage.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -720,6 +721,9 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Bear.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\numbericon.png" />
   </ItemGroup>
   <Import Project="..\Polcirkelleden\Polcirkelleden.projitems" Label="Shared" Condition="Exists('..\Polcirkelleden\Polcirkelleden.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
