@@ -54,7 +54,5 @@
 	<string>$(PRODUCT_NAME) Calender events</string>
 	<key>CFBundleVersion</key>
 	<string>1.9</string>
-	<key>XSAppIconAssets</key>
-	<string>Media.xcassets/AppIcons2.appiconset</string>
 </dict>
 </plist>
