@@ -225,7 +225,6 @@
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
     <Compile Include="CustomClasses.cs" />
-    <Compile Include="moreNavigationBar\topItem.cs" />
     <Compile Include="TabbedPage.cs" />
   </ItemGroup>
   <ItemGroup>
