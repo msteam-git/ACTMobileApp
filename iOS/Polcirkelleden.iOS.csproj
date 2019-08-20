@@ -203,6 +203,7 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="Entitlements.plist" />
+    <ITunesArtwork Include="iTunesArtwork" />
     <None Include="packages.config" />
     <BundleResource Include="Resources\Cabin-Bold.ttf" />
     <BundleResource Include="Resources\Cabin-BoldItalic.ttf" />
@@ -526,6 +527,9 @@
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-60x60@1x.png">
+      <Visible>false</Visible>
+	  </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-App-60x60@2x.png">
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-76@1x.png">

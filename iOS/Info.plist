@@ -32,27 +32,12 @@
 		<string>Cabin-Regular.ttf</string>
 	</array>
 	<key>CFBundleShortVersionString</key>
-	<string>0.9.2</string>
+	<string>1.0</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Arctic Trail Map</string>
 	<key>UIStatusBarStyle</key>
 	<string>UIStatusBarStyleLightContent</string>
-	<key>CFBundleDocumentTypes</key>
-	<array>
-		<dict>
-			<key>CFBundleTypeName</key>
-			<string>Document Type 1</string>
-		</dict>
-	</array>
-	<key>UIRequiresFullScreen</key>
-	<true/>
-	<key>UILaunchStoryboardName</key>
-	<string>LaunchScreen</string>
-	<key>CFBundleName</key>
-	<string>Arctic Circle Trail</string>
-	<key>NSCalendarsUsageDescription</key>
-	<string>$(PRODUCT_NAME) Calender events</string>
-	<key>CFBundleVersion</key>
-	<string>1.9</string>
+	<key>CFBundleTypeName</key>
+	<string>Document Type 1</string>
 </dict>
 </plist>
