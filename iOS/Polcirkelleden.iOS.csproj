@@ -481,73 +481,82 @@
     <BundleResource Include="Resources\sparbankennord-300 logga.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Media.xcassets\AppIcons.appiconset\Contents.json">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons1.appiconset\Contents.json">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\icon-1024x1024.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Contents.json">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-120.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-120.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-1201.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-1201.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-152.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-152.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-167.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-167.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-180.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-180.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-20.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-20x20@1x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-29.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-29x29@1x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-40.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-40x40@1x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-401.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-40x40@1x1.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-402.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-40x40@1x2.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-58.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-58.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-581.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-581.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-60.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-60x60@1x.png">
-      <Visible>false</Visible>
-	  </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-App-60x60@2x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-76.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-76@1x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-80.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-80.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-801.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-801.png">
+    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Icon-87.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcons2.appiconset\Icon-87.png">
+    <ImageAsset Include="Assets.xcassets\LaunchImages.launchimage\background-1532.jpg">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\LaunchImages.launchimage\Contents.json">
+    <ImageAsset Include="Assets.xcassets\LaunchImages.launchimage\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Contents.json">
+    <ImageAsset Include="Assets.xcassets\LaunchImages.launchimage\Default-Landscape@2x~ipad_2048x1536.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\LaunchImages.launchimage\Default-Landscape~ipad_1024x768.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\LaunchImages.launchimage\Default-Portrait@2x~ipad_1536x2048.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\LaunchImages.launchimage\Default-Portrait~ipad_768x1024.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\LaunchImages.launchimage\launch_image_iphone_2x.png">
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Media.xcassets\AppIcons.appiconset\Icon-120.png">
@@ -581,15 +590,6 @@
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Media.xcassets\AppIcons.appiconset\Icon-167.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Media.xcassets\LaunchImage.launchimage\Contents.json">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Media.xcassets\LaunchImage.launchimage\Default-568h%402x.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\icon-1024x1024.png">
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Media.xcassets\AppIcons.appiconset\icon-1024x1024.png">
