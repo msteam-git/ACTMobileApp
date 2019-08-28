@@ -73,13 +73,13 @@ namespace Polcirkelleden
                 lblSiberianHeader.IsVisible = true;
             }
 
-            Reindeer.Icon = "reindeernew.png";
-            Taiga.Icon = "forest.png";
-            BirchPolypore.Icon = "birch.png";
-            Black.Icon = "grouse.png";
-            Bear.Icon = "bearnew.png";
-            Freshwater.Icon = "clam.png";
-            Siberian.Icon = "bird.png";
+            Reindeer.IconImageSource = "reindeernew.png";
+            Taiga.IconImageSource = "forest.png";
+            BirchPolypore.IconImageSource = "birch.png";
+            Black.IconImageSource = "grouse.png";
+            Bear.IconImageSource = "bearnew.png";
+            Freshwater.IconImageSource = "clam.png";
+            Siberian.IconImageSource = "bird.png";
             
             //baseURL = DependencyService.Get<IBaseUrl>().Get();
 
@@ -148,43 +148,43 @@ namespace Polcirkelleden
 
         #region On Tab page disappering to stop the audio if running 
 
-        private async void Reindeer_Disappearing(object sender, EventArgs e)
+        private void Reindeer_Disappearing(object sender, EventArgs e)
         {
             WebView view = this.FindByName<WebView>("reindeerWebView");
             view.Eval("stopAudio()");
         }
 
-        private async void Siberian_Disappearing(object sender, EventArgs e)
+        private void Siberian_Disappearing(object sender, EventArgs e)
         {
             WebView view6 = this.FindByName<WebView>("siberianWebView");
             view6.Eval("stopAudio()");
         }
 
-        private async void Freshwater_Disappearing(object sender, EventArgs e)
+        private void Freshwater_Disappearing(object sender, EventArgs e)
         {
             WebView view5 = this.FindByName<WebView>("freshWaterWebView");
             view5.Eval("stopAudio()");
         }
 
-        private async void Bear_Disappearing(object sender, EventArgs e)
+        private void Bear_Disappearing(object sender, EventArgs e)
         {
             WebView view4 = this.FindByName<WebView>("bearWebView");
             view4.Eval("stopAudio()");
         }
 
-        private async void Black_Disappearing(object sender, EventArgs e)
+        private void Black_Disappearing(object sender, EventArgs e)
         {
             WebView view3 = this.FindByName<WebView>("blackWebView");
             view3.Eval("stopAudio()");
         }
 
-        private async void BirchPolypore_Disappearing(object sender, EventArgs e)
+        private void BirchPolypore_Disappearing(object sender, EventArgs e)
         {
             WebView view2 = this.FindByName<WebView>("birchWebView");
             view2.Eval("stopAudio()");
         }
 
-        private async void Taiga_Disappearing(object sender, EventArgs e)
+        private void Taiga_Disappearing(object sender, EventArgs e)
         {
             WebView view1 = this.FindByName<WebView>("taigaWebView");
             view1.Eval("stopAudio()");

@@ -30,7 +30,7 @@ namespace Polcirkelleden.iOS
                     tabBarController.ViewControllerSelected += OnTabbarControllerItemSelected;
                 
             }
-            catch (Exception exception)
+            catch (Exception)
             {
                 //Debug.WriteLine(exception);
             }

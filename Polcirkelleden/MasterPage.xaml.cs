@@ -15,13 +15,13 @@ namespace Polcirkelleden
             InitializeComponent();
             if (Application.Current.Properties.Keys.Any(b => b == "GotIt"))
             {
-                Icon = "hamburger.png";
+                IconImageSource = "hamburger.png";
                 Title = "Polcirkelleden";
                 IsEnabled = true;
             }
             else
             {
-                Icon = null;
+                IconImageSource = null;
                 Title = " ";
                 IsEnabled = false;
             }

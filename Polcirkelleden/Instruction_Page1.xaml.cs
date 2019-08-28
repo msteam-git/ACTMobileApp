@@ -21,7 +21,7 @@ namespace Polcirkelleden
             var source = new UrlWebViewSource();
             source.Url = url;
             webView.Source = source;
-            this.Disappearing += webView_Disappearing;
+            this.Disappearing += WebView_Disappearing;
           
             nextButton.Clicked += OnNextPageClicked;
             if (Device.RuntimePlatform == Device.iOS)
@@ -37,7 +37,7 @@ namespace Polcirkelleden
             }
         }
 
-        private async void webView_Disappearing(object sender, EventArgs e)
+        private void WebView_Disappearing(object sender, EventArgs e)
         {
             WebView view5 = this.FindByName<WebView>("webView");
             view5.Eval("stopAudio()");
@@ -48,7 +48,7 @@ namespace Polcirkelleden
         //    InstructionsPlay.Text = AudioPlayerViewModel.instance.CommandText == "Audio Information" ? "Audio Information" : "Pause";
         //}
 
-        async void OnNextPageClicked(object sender, EventArgs e)
+        void OnNextPageClicked(object sender, EventArgs e)
         {
             //var source = new UrlWebViewSource();
             //var baseURL = DependencyService.Get<IBaseUrl>().Get();

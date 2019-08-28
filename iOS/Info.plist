@@ -33,14 +33,6 @@
 	</array>
 	<key>CFBundleShortVersionString</key>
 	<string>1.01</string>
-	<key>NSLocationUsageDescription</key>
-	<string>Polcirkelleden önskar använda din plats/Arctic Circle Trail wants to use your location</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Polcirkelleden önskar använda din plats/Arctic Circle Trail wants to use your location</string>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Polcirkelleden önskar använda din plats/Arctic Circle Trail wants to use your location</string>
-	<key>NSCalendarsUsageDescription</key>
-	<string>Polcirkelleden önskar använda din kalender/Arctic Circle Trail wants to use your calendar</string>
 	<key>UIStatusBarStyle</key>
 	<string>UIStatusBarStyleLightContent</string>
 	<key>CFBundleTypeName</key>
@@ -51,5 +43,19 @@
 	<string>Assets.xcassets/AppIcons.appiconset</string>
 	<key>XSLaunchImageAssets</key>
 	<string>Assets.xcassets/LaunchImages.launchimage</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Polcirkelleden önskar använda din kalender/Arctic Circle Trail wants to use your calendar</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Polcirkelleden önskar använda din ljudspelare/Arctic Circle Trail wants to use your audio player</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Polcirkelleden önskar använda din mikrofon/Arctic Circle Trail wants to use your microphone</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Detta tillåter appen att visa dig var du befinner dig på kartan, vilket är till hjälp för att guida dig längs leden. Den kommer också att visa dig när du har nått en av nummerikonerna på kartan, som du sedan kan trycka på för att lära dig mer om omgivningen./This allows the app to show you where you are on the map, which will help in guiding you along the trail. It will also show you when you have reached one of the number icons on the map, which you can then tap to learn more about the surroundings.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Detta tillåter appen att visa dig var du befinner dig på kartan, vilket är till hjälp för att guida dig längs leden. Den kommer också att visa dig när du har nått en av nummerikonerna på kartan, som du sedan kan trycka på för att lära dig mer om omgivningen./This allows the app to show you where you are on the map, which will help in guiding you along the trail. It will also show you when you have reached one of the number icons on the map, which you can then tap to learn more about the surroundings.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Detta tillåter appen att visa dig var du befinner dig på kartan, vilket är till hjälp för att guida dig längs leden. Den kommer också att visa dig när du har nått en av nummerikonerna på kartan, som du sedan kan trycka på för att lära dig mer om omgivningen./This allows the app to show you where you are on the map, which will help in guiding you along the trail. It will also show you when you have reached one of the number icons on the map, which you can then tap to learn more about the surroundings.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Detta tillåter appen att visa dig var du befinner dig på kartan, vilket är till hjälp för att guida dig längs leden. Den kommer också att visa dig när du har nått en av nummerikonerna på kartan, som du sedan kan trycka på för att lära dig mer om omgivningen./This allows the app to show you where you are on the map, which will help in guiding you along the trail. It will also show you when you have reached one of the number icons on the map, which you can then tap to learn more about the surroundings.</string>
 </dict>
 </plist>

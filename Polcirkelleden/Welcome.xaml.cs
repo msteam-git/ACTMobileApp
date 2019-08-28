@@ -22,17 +22,17 @@ namespace Polcirkelleden
             var source = new UrlWebViewSource();
             source.Url = Application.Current.Properties["Language"].ToString() == "English" ? System.IO.Path.Combine(baseURL, "Welcome/Welcome_Eng.html") : System.IO.Path.Combine(baseURL, "Welcome/Welcome_SV.html");
             welcomeAudioWebView.Source = source;
-            this.Disappearing+= welcomeAudioWebView_Disappearing;
+            this.Disappearing+= WelcomeAudioWebView_Disappearing;
             Instructions.Clicked += Instructions_Clicked;
         }
 
         /// <summary>
         /// Stop Audio on page change.
         /// </summary>
-        private async void welcomeAudioWebView_Disappearing(object sender, EventArgs e)
+        private void WelcomeAudioWebView_Disappearing(object sender, EventArgs e)
         {
             welcomeAudioWebView.Eval("stopAudio()");
-            
+
         }
 
         /// <summary>
