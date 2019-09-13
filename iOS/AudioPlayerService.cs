@@ -1,12 +1,15 @@
 ﻿using System;
+using System.Diagnostics;
 using AudioManager.Interfaces;
 using AVFoundation;
 using Foundation;
 using Polcirkelleden.iOS;
 using UIKit;
 using Xamarin.Forms;
+using Xamarin.Forms.Platform.iOS;
 
 [assembly: Dependency(typeof(AudioPlayerService))]
+[assembly: ExportRenderer(typeof(WebView), typeof(WebViewSourceiOSRenderer))]
 namespace Polcirkelleden.iOS
 {
     
@@ -65,6 +68,22 @@ namespace Polcirkelleden.iOS
         public void Stop()
         {
             _audioPlayer?.Stop();
+        }
+    }
+}
+ 
+namespace Polcirkelleden.iOS
+{
+    public class WebViewSourceiOSRenderer : WebViewRenderer
+    {
+        protected override void OnElementChanged(VisualElementChangedEventArgs e)
+        {
+            if (NativeView is UIWebView webView)
+            {
+                webView.MediaPlaybackRequiresUserAction = false;
+            }
+
+            base.OnElementChanged(e);
         }
     }
 }
